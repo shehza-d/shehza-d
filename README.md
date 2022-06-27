@@ -1,7 +1,9 @@
 - 👋 Hi, I’m SHEHZAD
-- 👀 I’m interested in Programming, Fast Typing and Rapping
-- 🌱 I’m currently learning C++, Web Development
-- 💞️ I’m looking to collaborate on ...
+-    Enthusiastic 💯
+MAKING CODE BENEFICIAL!
+- 👀 I’m interested in Programming and a lots of other things
+- 🌱 I’m currently learning C++, Web Development, JavaScript
+- 💞️ I’m looking to collaborate...
 - 📫 Reach me on Insta@shehza.d
 Looking forward to be a Computer teacher and help others😊
 <!---
