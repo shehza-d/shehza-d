@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHEHZAD💯</h1>
+<h1 align="center">Hi 👋, I'm <i><b>SHEHZAD💯</b></i></h1>
 
 <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
 <img align="right" alt="Coding" width="400"
@@ -6,10 +6,10 @@
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 - Enthusiastic<br>
-- 🌱 I’m currently learning **Web Development, JavaScript**<br>
+- 🌱 I’m currently learning <b>Web Development, JavaScript</b><br>
 - 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty
 and Hackathons <br>
-- 💞️ I’m looking forward to collaborate on a project and to be a Computer teacher.<br>
+- 💞️ I’m looking forward to collaborate on projects and to be a Computer teacher.<br>
 - 😉 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
 
@@ -41,16 +41,15 @@ and Hackathons <br>
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
 			height="40" />
 	</a>
-	<a href="">
-		<img align="left" alt="GitHub" title="GitHub" width="40" height="40"
-			src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"
+	<a href="#">
+		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
 	</a>
-	<a href="">
-		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal-light.svg" />
+	<a href="#">
+		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="imgs/terminal-light.svg" />
 	</a>
 
-	<a href="https://code.visualstudio.com/">
+	<a href="https:?/code.visualstudio.com/">
 		<img align="left" alt="VS Code" title="VS Code" width="40" height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 			style="padding-right:10px;" />
@@ -69,36 +68,42 @@ and Hackathons <br>
 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap" width="40" height="40" /> </a>
+			alt="bootstrap" width="40" height="40" />
+	</a>
 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript" width="40" height="40" /> </a>
+			alt="javascript" width="40" height="40" />
+	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-			alt="cplusplus" width="40" height="40" /> </a>
+			alt="cplusplus" width="40" height="40" />
+	</a>
 
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react" width="40" height="40" /> </a>
+			alt="react" width="40" height="40" />
+	</a>
 
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-			width="40" height="40" /> </a>
+			width="40" height="40" />
+	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript" width="40" height="40" /> </a>
-	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
+			alt="typescript" width="40" height="40" />
+	</a>
+	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
+	 <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-			alt="mongodb" width="40" height="40" /> </a>
+			alt="mongodb" width="40" height="40" />
+	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-			alt="nodejs" width="40" height="40" /> </a>
-
-
+			alt="nodejs" width="40" height="40" />
+	</a>
 </p>
 
 
@@ -106,8 +111,12 @@ and Hackathons <br>
 <h3 align="left">🏫 Plans of Learning :</h3><br>
 
 
-
-
+<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda">
+	<img src="./imgs/lambda.png" width="40px" />
+</a>
+<a href="	https://www.cloudflare.com/learning/cdn/what-is-a-cdn/" target="_blank" title="AWS Cloud Development Kit">
+	<img src="./imgs/cloudflare.png" width="40px" />
+</a>
 
 
 
