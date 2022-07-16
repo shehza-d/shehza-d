@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHEHZAD💯</h1>
+<hr>
 <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
 <img align="right" alt="Coding" width="400"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+<hr>
 <h3>MAKING CODE BENEFICIAL!</h3>
 - Enthusiastic<br>
 - 🌱 I’m currently learning **Web Development, JavaScript**<br>
@@ -13,7 +14,7 @@ and Hackathons <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
 
 
-<h3 align="left">📫 Connect with me on :</h3><br>
+<h3 align="left">📫 Connect with me on :</h3>
 
 <a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
 		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -39,7 +40,6 @@ and Hackathons <br>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
 		height="40" />
 </a>
-
 <a href="">
 <img align="left" alt="GitHub" title="GitHub" width="40" height="40"
 		src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"
@@ -86,14 +86,23 @@ and Hackathons <br>
 
 
 
-<br><br>
-<p>
-	<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact" alt="shehza-d" />
-</p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en" alt="shehza-d" />&nbsp;</p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />&nbsp;</p>
+<!-- <p> -->
+	<img align="left" style="display: block;"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
+		alt="shehza-d" />
+<!-- </p> -->
+<br>
+<!-- <p>&nbsp; -->
+	<img align="center" style="display: block;"
+		src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
+		alt="shehza-d" />
+	<!-- </p> -->
+<br>
+<!-- <p>&nbsp; -->
+	<img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&"
+		alt="shehza-d" />
+	<!-- </p> -->
 
 
 
@@ -106,4 +115,3 @@ Dedicated to Work
 Hungry for Experience 😉
 I always like to Enjoy my Work that I'm doing
 Looking forward to be a Computer teacher and run a Software house😊 -->
-
