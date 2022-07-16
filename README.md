@@ -48,7 +48,6 @@ and Hackathons <br>
 	<a href="#">
 		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="imgs/terminal-light.svg" />
 	</a>
-
 	<a href="https:?/code.visualstudio.com/">
 		<img align="left" alt="VS Code" title="VS Code" width="40" height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -61,16 +60,13 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
 	</a>
-
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 			alt="css3" width="40" height="40" /> </a>
-
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
 			alt="bootstrap" width="40" height="40" />
 	</a>
-
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			alt="javascript" width="40" height="40" />
@@ -79,12 +75,10 @@ and Hackathons <br>
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
 			alt="cplusplus" width="40" height="40" />
 	</a>
-
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
 	</a>
-
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
 			width="40" height="40" />
