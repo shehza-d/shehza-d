@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHEHZAD💯</h1>
-<hr>
+
 <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
 <img align="right" alt="Coding" width="400"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -13,7 +13,7 @@ and Hackathons <br>
 - 😉 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
 
-
+<hr>
 <h3 align="left">📫 Connect with me on :</h3>
 
 <a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
@@ -33,7 +33,7 @@ and Hackathons <br>
 		alt="YouTube" height="40" width="40" /></a>
 
 
-
+		<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@ and Hackathons <br>
 
 
 
-
+<hr>
 <h3 align="left">🏫 Plans of Learning :</h3><br>
 
 
@@ -85,24 +85,24 @@ and Hackathons <br>
 
 
 
-
+<hr>
 <br>
-<!-- <p> -->
-	<img align="left" style="display: block;"
+<p>
+	<img align="center" style="display: block;"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
 		alt="shehza-d" />
-<!-- </p> -->
+</p>
 <br>
-<!-- <p>&nbsp; -->
-	<img align="center" style="display: block;"
+<p>
+	<img align="center" 
 		src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
 		alt="shehza-d" />
-	<!-- </p> -->
+	</p>
 <br>
-<!-- <p>&nbsp; -->
+<p>
 	<img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&"
 		alt="shehza-d" />
-	<!-- </p> -->
+</p>
 
 
 
