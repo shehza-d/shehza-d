@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<h2>MAKING CODE BENEFICIAL!</h2>
--    Enthusiastic
-- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty and Hackathons 
-- 🌱 I’m currently learning  Web Development, JavaScript
-- 💞️ I’m looking forward to collaborate on a project and to be a Computer teacher.
-
+<h3>MAKING CODE BENEFICIAL!</h3>
+-    Enthusiastic<br>
+- 🌱 I’m currently learning  *Web Development, *JavaScript**<br>
+- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty and Hackathons <br>
+- 💞️ I’m looking forward to collaborate on a project and to be a Computer teacher.<br>
+- 😉 Dedicated to Work and seeking Experiences <br>
 <h3 align="left">📫 Connect with me on :</h3>
 <br>
 <a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN" height="30" width="40" /></a>
