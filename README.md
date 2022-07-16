@@ -24,7 +24,6 @@
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" width="40" height="40" /> </a>
 
-<h3 align="left">🏫 Plans of Learning :</h3><br>
 
 	
 
@@ -46,6 +45,101 @@
 
 
 
+
+
+
+<h1 align="center">Hi 👋, I'm SHEHZAD💯</h1>
+<h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
+<img align="right" alt="Coding" width="400"
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<h3>MAKING CODE BENEFICIAL!</h3>
+- Enthusiastic<br>
+- 🌱 I’m currently learning **Web Development, JavaScript**<br>
+- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty
+and Hackathons <br>
+- 💞️ I’m looking forward to collaborate on a project and to be a Computer teacher.<br>
+- 😉 Dedicated to Work and seeking Experiences <br>
+- ⛳️ MY 2022 Goal is Mastering JavaScript<br>
+
+
+<h3 align="left">📫 Connect with me on :</h3><br>
+
+<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
+		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+		alt="shehzadd" height="30" width="40" /></a>
+<a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
+		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+		alt="shehza_d_" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18210334/shehzad" target="blank"><img align="center"
+		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+		alt="stack-overflow" height="30" width="40" /></a>
+<a href="https://instagram.com/shehza.d" target="blank"><img align="center"
+		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+		alt="shehza.d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
+		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+		alt="YouTube" height="40" width="40" /></a>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
+		height="40" />
+</a>
+
+<img align="left" alt="GitHub" title="GitHub" width="40" height="40"
+	src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"
+	style="padding-right:10px;" />
+<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal-light.svg" />
+
+<a href="https://code.visualstudio.com/">
+	<img align="left" alt="VS Code" title="VS Code" width="40" height="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+		style="padding-right:10px;" />
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+		alt="html5" title="HTML5" width="40" height="40" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="left">🏫 Plans of Learning :</h3><br>
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact" alt="shehza-d" />
+</p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en" alt="shehza-d" />&nbsp;</p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />&nbsp;</p>
 
 
 
