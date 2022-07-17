@@ -5,13 +5,14 @@
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-- Enthusiastic<br>
+- 💪🏻 Enthusiastic<br>
 - 🌱 I’m currently learning <b>Web Development, JavaScript</b><br>
 - 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty
 and Hackathons <br>
-- 💞️ I’m looking forward to collaborate on projects and to be a Computer teacher.<br>
-- 😉 Dedicated to Work and seeking Experiences <br>
+- 💞️ Always looking forward to collaborate on projects<br>
+- 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
+-    (hope you see me coming😉) <br>
 
 <hr>
 <h3 align="left">📫 Connect with me on :</h3>
@@ -92,19 +93,6 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
 	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-			width="40" height="40" />
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"
-		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript" width="40" height="40" />
-	</a>
-	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
-		style="text-decoration: none;">
-		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
-	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB DataBase"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -116,12 +104,18 @@ and Hackathons <br>
 			alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
+	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+			width="40" height="40" />
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"
+		style="text-decoration: none;">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			alt="typescript" width="40" height="40" />
+	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express" width="40" height="40" /> </a>
-	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
-		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
 	</a>
@@ -133,6 +127,9 @@ and Hackathons <br>
 <h3 align="left">🏫 Plans of Learning :</h3>
 
 <p align="left">
+	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
+		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
+	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" title="NustJS">
 		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
 	</a>
@@ -146,6 +143,10 @@ and Hackathons <br>
 	<a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis DataBase">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
 			alt="redis" width="40" height="40" />
+	</a>
+	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
+		style="text-decoration: none;">
+		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
 	</a>
 	<a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
