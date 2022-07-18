@@ -104,6 +104,10 @@ and Hackathons <br>
 			alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
+	<a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
+		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
+			width="40" height="40" />
+	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
 			width="40" height="40" />
