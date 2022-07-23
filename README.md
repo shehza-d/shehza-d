@@ -6,7 +6,7 @@
 
 
 <!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
-<img align="right" alt="Coding" width="400" style="border-radius:5px;"
+<img align="right" alt="Coding" width="400" style="border-radius:10px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
@@ -17,6 +17,8 @@ and Hackathons <br>
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
+<!-- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> -->
+-    A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
 -    (hope you see me coming😉) <br>
 
 <hr>
