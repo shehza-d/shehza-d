@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <i><b>SHEHZAD💯</b></i></h1>
 
 <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3>
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="400" style="border-radius:5px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
