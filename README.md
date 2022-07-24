@@ -111,6 +111,10 @@ and Hackathons <br>
 			alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
+	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
+		<img src="./imgs/icons8-npm-48.png" alt="NPM"
+			width="40" height="40" />
+	</a>
 	<a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
 			width="40" height="40" />
@@ -129,6 +133,9 @@ and Hackathons <br>
 			alt="express" width="40" height="40" /> </a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+	</a>
+	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
+		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
 	</a>
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
@@ -182,6 +189,10 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
 	</a>
+	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
+		<img src="./imgs/pwa2.png"
+			alt="PWA" width="55" height="35" />
+	</a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 			alt="postgresql" width="40" height="40" />
@@ -221,9 +232,6 @@ and Hackathons <br>
 	<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
 		title="Cockroach DataBase">
 		<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40" />
-	</a>
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
 	</a>
 	<a href="	https://www.cloudflare.com/learning/cdn/what-is-a-cdn/" target="_blank" title="AWS Cloud Development Kit"
 		title="" style="text-decoration: none;">
