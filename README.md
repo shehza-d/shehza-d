@@ -124,7 +124,6 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
 			width="40" height="40" />
 	</a>
-	
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express" width="40" height="40" /> 
