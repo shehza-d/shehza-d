@@ -44,8 +44,11 @@ and Hackathons <br>
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
 </p>
-
-
+<hr>
+<p align="center">
+جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی 
+ جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
+</p>
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="left">
