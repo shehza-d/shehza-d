@@ -1,7 +1,9 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <i><b>SHEHZAD💯</b></i></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm
+	<i><b>SHEHZAD💯</b></i></h1>
 
 <!-- animation start  -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)
 <!-- animation end  -->
 
 
@@ -18,8 +20,8 @@ and Hackathons <br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
 <!-- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> -->
--    A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
--    (hope you see me coming😉) <br>
+- A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
+- (hope you see me coming😉) <br>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
@@ -46,8 +48,8 @@ and Hackathons <br>
 </p>
 <hr>
 <p align="center">
-جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی 
- جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
+	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
+	جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
 </p>
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
@@ -116,12 +118,11 @@ and Hackathons <br>
 		<!-- https://nodejs.org -->
 	</a>
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="./imgs/icons8-npm-48.png" alt="NPM"
-			width="40" height="40" />
+		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
 	</a>
-	<a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
-		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
-			width="40" height="40" />
+	<a href="https://socket.io/" target="_blank" rel="noreferrer"
+		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
+		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
 	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
@@ -129,7 +130,7 @@ and Hackathons <br>
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-			alt="express" width="40" height="40" /> 
+			alt="express" width="40" height="40" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -153,8 +154,9 @@ and Hackathons <br>
 	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
 	</a>
-	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" title="NustJS">
-		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+			height="40" />
 	</a>
 	<a href="https://surge.sh/" target="_blank" title="Surge Static Web publishing" style="text-decoration: none;">
 		<img src="./imgs/surge-logo.svg" width="40px" />
@@ -195,8 +197,7 @@ and Hackathons <br>
 			alt="cypress" width="40" height="40" />
 	</a>
 	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
-		<img src="./imgs/pwa2.png"
-			alt="PWA" width="55" height="35" />
+		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
 	</a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -290,21 +291,21 @@ and Hackathons <br>
 
 <details>
 	<summary>GitHub Statistics :zap: : </summary>
-<p>
-	<img align="center" style="display: block;"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
-		alt="shehza-d" />
-</p>
-<br>
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
-		alt="shehza-d" />
-</p>
-<br>
-<p>
-	<img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&"
-		alt="shehza-d" />
-</p>
+	<p>
+		<img align="center" style="display: block;"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
+			alt="shehza-d" />
+	</p>
+	<br>
+	<p>
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
+			alt="shehza-d" />
+	</p>
+	<br>
+	<p>
+		<img align="center" style="display: block;"
+			src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />
+	</p>
 </details>
 <!-- https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic
 profile views -->
