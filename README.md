@@ -155,8 +155,8 @@ and Hackathons <br>
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-			height="40" />
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" title="Tailwind CSS"
+			 height="40" /><!--because it removes extra CSS before production unlike Bootstrap -->
 	</a>
 	<a href="https://surge.sh/" target="_blank" title="Surge Static Web publishing" style="text-decoration: none;">
 		<img src="./imgs/surge-logo.svg" width="40px" />
