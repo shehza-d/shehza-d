@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <i><b>SHEHZAD💯</b></i></h1>
 
 <!-- animation start  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)
 <!-- animation end  -->
 
 
