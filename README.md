@@ -1,12 +1,13 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm
-	<i><b>SHEHZAD💯</b></i></h1>
-
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm
+	<i><b>SHEHZAD💯</b></i></h1> -->
+	<!-- Hi , I'm SHEHZAD💯 -->
 <!-- animation start  -->
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)
 <!-- animation end  -->
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="shehza-d" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardaruzair1&label=Profile%20views&color=0e75b6&style=flat" alt="sardaruzair1" /> </p> -->
 <!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
 <img align="right" alt="Coding" width="400" style="border-radius:10px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -155,8 +156,8 @@ and Hackathons <br>
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" title="Tailwind CSS"
-			 height="40" /><!--because it removes extra CSS before production unlike Bootstrap -->
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+			height="40" />
 	</a>
 	<a href="https://surge.sh/" target="_blank" title="Surge Static Web publishing" style="text-decoration: none;">
 		<img src="./imgs/surge-logo.svg" width="40px" />
