@@ -44,8 +44,8 @@ and Hackathons <br>
 			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
+ <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="shehza-d" align="right"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="shehza-d" /> </p>
 <hr>
 <p align="center">
 	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
