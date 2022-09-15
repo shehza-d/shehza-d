@@ -288,8 +288,8 @@ and Hackathons <br>
 <br>
 
 <details>
-	<summary>GitHub Statistics :zap: : <img src='.githubworkflows/cartoon1.gif' height=60/>
-</summary>
+	<summary>GitHub Statistics :zap: : </summary>
+	<img src='.githubworkflows/cartoon1.gif' height=60/>
 	<p>
 		<img align="center" style="display: block;"
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
