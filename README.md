@@ -24,16 +24,18 @@ and Hackathons <br>
 <p align="left">
 	<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="shehzadd" height="30" width="40" /></a>
+			alt="shehzadd" height="40" width="40" /></a>
 	<a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-			alt="shehza_d_" height="30" width="40" /></a>
+			alt="shehza_d_" height="40" width="40" /></a>
+	<a href="https://www.hackerrank.com/shehza_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulsamadsid1" height="40" width="40" /></a>
+<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samadpls" height="40" width="40" /></a>
 	<a href="https://stackoverflow.com/users/18210334/shehzad" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-			alt="stack-overflow" height="30" width="40" /></a>
+			alt="stack-overflow" height="40" width="40" /></a>
 	<a href="https://instagram.com/shehza.d" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-			alt="shehza.d" height="30" width="40" /></a>
+			alt="shehza.d" height="40" width="40" /></a>
 	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="YouTube" height="40" width="40" /></a>
