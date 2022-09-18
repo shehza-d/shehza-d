@@ -306,6 +306,10 @@ and Hackathons <br>
 		<img align="center" style="display: block;"
 			src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />
 	</p>
+	<p > 
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d" alt="shehza-d" />
+	</p>
+
 </details>
 
 <!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
