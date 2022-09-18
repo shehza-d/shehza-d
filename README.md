@@ -113,7 +113,7 @@ and Hackathons <br>
 	</a>
 	<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
 		title="NodeJS JavaScript Engin used for BackEnd" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+		<img src="./imgs/svgs/nodejs.svg"
 			alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
