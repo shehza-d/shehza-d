@@ -92,8 +92,8 @@ and Hackathons <br>
 	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-			alt="cplusplus" width="40" height="40" />
+		<img src="./imgs/svgs/cpp.svg"
+			alt="cplusplus" width="40" height="40"  for DSA and Competative Programming/>
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -104,11 +104,11 @@ and Hackathons <br>
 			alt="express" width="40" height="40" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
-		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+		<img src="./imgs/svgs/next-js.svg" alt="nextjs" width="40" height="40" />
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB DataBase"
 		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+		<img src="./imgs/svgs/mongodb.svg"
 			alt="mongodb" width="40" height="40" />
 	</a>
 	<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
