@@ -104,7 +104,7 @@ and Hackathons <br>
 			alt="express" width="40" height="40" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
-		<img src="./imgs/svgs/next-js.svg" alt="nextjs" width="40" height="40" />
+		<img src="./imgs/nextjs.png" alt="nextjs" width="40" height="40" />
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB DataBase"
 		style="text-decoration: none;">
