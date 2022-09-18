@@ -103,8 +103,8 @@ and Hackathons <br>
 		<img src="./imgs/express-js.png"
 			alt="express" width="40" height="40" />
 	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
-		<img src="./imgs/nextjs.png" alt="nextjs" width="40" height="40" />
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
+		<img src="./imgs/nextjs.png" alt="nextjs" width="45" height="45" />
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB DataBase"
 		style="text-decoration: none;">
