@@ -307,7 +307,7 @@ and Hackathons <br>
 			src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />
 	</p>
 	<p > 
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d" alt="shehza-d" />
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
 
 </details>
