@@ -99,8 +99,8 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
 	</a>
-		<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+		<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS for Servers">
+		<img src="./imgs/express-js.png"
 			alt="express" width="40" height="40" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
