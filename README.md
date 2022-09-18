@@ -43,7 +43,7 @@ and Hackathons <br>
 			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
- <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=flat" alt="shehza-d" align="right"/>
+ <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge" alt="shehza-d" align="right"/>
 </p>
 <hr>
 <p align="center">
