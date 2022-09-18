@@ -43,7 +43,7 @@ and Hackathons <br>
 			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
- <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="shehza-d" align="right"/>
+ <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=flat" alt="shehza-d" align="right"/>
 </p>
 <hr>
 <p align="center">
@@ -246,7 +246,8 @@ and Hackathons <br>
 	</a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker" width="40" height="40" />
+			alt="docker" width="40" height="40" a/>
+	 <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
 	</a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="Tensorflow">
 		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
