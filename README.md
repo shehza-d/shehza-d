@@ -293,12 +293,12 @@ and Hackathons <br>
 	<img src='.githubworkflows/cartoon1.gif' height=60/>
 	<p>
 		<img align="center" style="display: block;"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
 			alt="shehza-d" />
 	</p>
 	<br>
 	<p>
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
 			alt="shehza-d" />
 	</p>
 	<br>
@@ -307,7 +307,7 @@ and Hackathons <br>
 			src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&" alt="shehza-d" />
 	</p>
 	<p > 
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord&no-bg=true" alt="shehza-d" />
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
 
 </details>
