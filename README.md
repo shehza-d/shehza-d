@@ -72,7 +72,13 @@ and Hackathons <br>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-			width="40" height="40" /> </a>
+			width="40" height="40" /> 
+	</a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
+		style="text-decoration: none;">
+		<img src="./imgs/svgs/cpp.svg"
+			alt="cplusplus" width="45" height="45"  for DSA and Competative Programming/>
+	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
@@ -82,18 +88,14 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 			alt="css3" width="40" height="40" />
 	</a>
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-			height="40" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
 		title="Advance JavaScript with ES13" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript" width="40" height="40" />
+			alt="javascript" width="45" height="45" />
 	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
-		style="text-decoration: none;">
-		<img src="./imgs/svgs/cpp.svg"
-			alt="cplusplus" width="40" height="40"  for DSA and Competative Programming/>
+	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
+		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+			height="40" />
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
