@@ -130,10 +130,6 @@ and Hackathons <br>
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
 	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-			width="40" height="40" />
-	</a>
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
 	</a>
