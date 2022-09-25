@@ -268,6 +268,13 @@ and Hackathons <br>
 <hr>
 <br>
 
+<div align='center'>
+<h3> ✍️ Random Dev Quote </h3>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+
+<hr>
+<br>
+
 <details>
 	<summary>GitHub Statistics :zap: : </summary>
 	<img src='.githubworkflows/cartoon1.gif' height=60/>
