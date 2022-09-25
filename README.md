@@ -52,6 +52,7 @@ and Hackathons <br>
 	جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
 </p>
 <hr>
+<input type="email" placeholder="Email..."/>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="left">
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
