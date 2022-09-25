@@ -39,6 +39,7 @@ and Hackathons <br>
 	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="YouTube" height="40" width="40" /></a>
+	<a href="https://g.dev/shehzadd" target="blank"><img align="center" src="./imgs/google-developer-icon.png" title="Google Developer Profile"	alt="YouTube" height="40" width="40" /></a>
 	<a href="https://www.upwork.com/freelancers/~01d9a6c55b707b71aa" target="blank"><img align="center"
 			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
