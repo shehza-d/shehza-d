@@ -1,0 +1,48 @@
+$$$$$$$$$$  COMMANDS    $$$$$$$$$$$$$$$
+cd
+dir or ls (to view files in directories)
+
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+
+git add *
+
+git commit -m "apna comment"
+
+git push origin main 
+
+(
+	first time 
+	git config --global user.name "apna nam”
+
+	git config --global user.email "apna email”
+)
+
+%%%%%%%%%% Node Commands %%%%%%%%%%%%
+node fileKaName
+
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+%%%%%%%%%% Formik i Commands %%%%%%%%%%%%
+
+npm install formik --save
+
+%%%%%%%%%% yup i Commands %%%%%%%%%%%%
+
+npm i yup
+
+npm install -S yup
+
+%%%%%%%%%% Git Commands %%%%%%%%%%%%
+
+
+
+// npm init   (to initinil node project)
+// npm install express  (to initilize express project) express ky liye
+// 
+// 
+// 
+// 
