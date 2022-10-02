@@ -285,7 +285,7 @@ and Hackathons <br>
 <br>
 
 <details>
-	<summary>GitHub Statistics :zap: : </summary>
+	<summary><h1> GitHub Statistics :zap: : <h3/></summary>
 	<img src='.githubworkflows/cartoon1.gif' height=60/>
 <br>
 <h2 align="center">Coding States (WakaTime)</h2>
@@ -294,31 +294,25 @@ and Hackathons <br>
 <img align="center" height="330px" width="420px" src="" >
 <img align="center" height="330px" width="420px" src="" >
 </p> -->
-<div align="center">
+<p align="center">
 	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="85%">	
 <img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="85%">
-</div>
+</p>
 <!-- <p align="center">
 <img align="center" height="330px" width="420px" src="" >
 <img align="center" height="330px" width="420px" src="" >
 </p> -->
 <br>
-    <p>
-    	<img align="center" style="display: block;"
+    <p align="center">
+    	<img  style="display: block;"
     		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
     		alt="shehza-d" />
-    </p>
     <br>
-    <p>
     	<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
     		alt="shehza-d" />
-    </p>
     <br>
-    <p>
-    	<img align="center" style="display: block;"
+    	<img style="display: block;"
     		src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
-    </p>
-    <p >
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
     </p>
 
