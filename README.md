@@ -267,12 +267,13 @@ and Hackathons <br>
 			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
-
 <hr>
 <br>
 
 <img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center" title="Ranking in Pakistan for Top Github committer"/></div>
-[![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)]
+<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center" title="My Coding Stats"/>
+
+<!-- [![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)] -->
 <div align='center'>
 <h3> ✍️ Random Dev Quote </h3>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
