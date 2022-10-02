@@ -58,6 +58,10 @@ and Hackathons <br>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
 </p>
+<p align="center">
+	![Lines of
+	code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
+</p>
 <hr>
 <p align="center">
 	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
@@ -300,24 +304,20 @@ and Hackathons <br>
 	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
 			alt="shehza-d" />
-		<!-- </p> -->
 		<br>
+		<!-- </p> -->
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
-	<!-- <img align="center" height="330px" width="420px" src="" > -->
-	<!-- <p align="center"> -->
-	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
-	<br>
-	<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
-	<!-- </p> -->
-	<br><br>
-	<!-- <p align="center"> -->
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
-		alt="shehza-d" />
-	<br> <br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
-	<br> <br>
-	<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
+	<p align="center">
+		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
+		<br>
+		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
+		<br><br>
+		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
+			alt="shehza-d" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
 
 </details>
