@@ -1,11 +1,14 @@
 <!-- animation start  -->
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8+Hi+%2C+I'm+SHEHZAD+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5Passionate+Full+Stack+Developer%F0%9F%92%BB;Always++Learning%F0%9F%92%A1;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker%F0%9F%92%AF;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)
+
 <!-- animation end  -->
 
 <!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 - 💪🏻 Enthusiastic<br>
@@ -281,24 +284,40 @@ and Hackathons <br>
 <details>
 	<summary>GitHub Statistics :zap: : </summary>
 	<img src='.githubworkflows/cartoon1.gif' height=60/>
-	<p>
-		<img align="center" style="display: block;"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
-			alt="shehza-d" />
-	</p>
-	<br>
-	<p>
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
-			alt="shehza-d" />
-	</p>
-	<br>
-	<p>
-		<img align="center" style="display: block;"
-			src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
-	</p>
-	<p > 
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
-	</p>
+<br>
+<h2 align="center">Coding States (WakaTime)</h2>
+
+<!-- <p align="center">
+<img align="center" height="330px" width="420px" src="" >
+<img align="center" height="330px" width="420px" src="" >
+</p> -->
+<div align="center">
+	<img src="https://wakatime.com/share/@shehzad/39c6aa6a-399c-4dc0-87ef-062b1d67818e.svg" alt="">
+	<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="">
+</div>
+<!-- <p align="center">
+<img align="center" height="330px" width="420px" src="" >
+<img align="center" height="330px" width="420px" src="" >
+</p> -->
+<br>
+    <p>
+    	<img align="center" style="display: block;"
+    		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
+    		alt="shehza-d" />
+    </p>
+    <br>
+    <p>
+    	<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
+    		alt="shehza-d" />
+    </p>
+    <br>
+    <p>
+    	<img align="center" style="display: block;"
+    		src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
+    </p>
+    <p >
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
+    </p>
 
 </details>
 
