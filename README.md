@@ -286,7 +286,6 @@ and Hackathons <br>
 
 <details>
 	<summary><h1> GitHub Statistics :zap: : <h3/></summary>
-	<img src='.githubworkflows/cartoon1.gif' height=60/>
 <br>
 <h2 align="center">Coding States (WakaTime)</h2>
 
@@ -295,20 +294,18 @@ and Hackathons <br>
 <img align="center" height="330px" width="420px" src="" >
 </p> -->
 <p align="center">
-	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="85%">	 <br>
-<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="85%">
-</p>
+	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">	
+<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
+</p><br>
 <!-- <p align="center">
 <img align="center" height="330px" width="420px" src="" >
 <img align="center" height="330px" width="420px" src="" >
 </p> -->
 <br>
     <p align="center">
-	 <img width="200px"src="./imgs/bulb-light.png">
     	<img 
     		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
     		alt="shehza-d" />
-			 <img width="200px"src="./imgs/bulb-light.png">
     <br> <br>
     	<img  src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
     		alt="shehza-d" />
@@ -316,7 +313,7 @@ and Hackathons <br>
     	<img 
     		src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
 	 <br> <br>		
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
     </p>
 
 </details>
