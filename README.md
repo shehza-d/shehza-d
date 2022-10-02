@@ -266,17 +266,20 @@ and Hackathons <br>
 		<!-- https://miragejs.com/ -->
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
 			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
-
 <hr>
 <br>
 
+<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center" title="Ranking in Pakistan for Top Github committer"/></div>
+<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center" title="My Coding Stats"/>
+
+<!-- [![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)] -->
 <div align='center'>
 <h3> ✍️ Random Dev Quote </h3>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
 
 <hr>
 <br>
