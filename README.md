@@ -59,8 +59,7 @@ and Hackathons <br>
 		alt="shehza-d" align="right" />
 </p>
 <p align="center">
-	![Lines of
-	code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
+	<a href="https://github.com/shehza-d/shehza-d/discussions" target="_blank">Click here for Discussions and Chit Chat</a>
 </p>
 <hr>
 <p align="center">
