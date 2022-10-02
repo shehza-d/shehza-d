@@ -263,7 +263,7 @@ and Hackathons <br>
 		<!-- https://miragejs.com/ -->
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
 			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
@@ -271,9 +271,11 @@ and Hackathons <br>
 <hr>
 <br>
 
+<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' width=75% align="center" title="Ranking in Pakistan for Top Github committer"/></div>
+
 <div align='center'>
 <h3> ✍️ Random Dev Quote </h3>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
 
 <hr>
 <br>
