@@ -295,7 +295,7 @@ and Hackathons <br>
 <img align="center" height="330px" width="420px" src="" >
 </p> -->
 <div align="center">
-	<img src="https://wakatime.com/share/@shehzad/39c6aa6a-399c-4dc0-87ef-062b1d67818e.svg" alt="">
+	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="">
 	<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="">
 </div>
 <!-- <p align="center">
