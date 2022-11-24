@@ -15,8 +15,12 @@ alias ls='lsd -a'
     "actions": 
     [
         {
+            "command": "duplicateTab",
+            "keys": "ctrl+t"
+        },
+        {
             "command": "find",
-            "keys": "ctrl+shift+f"
+            "keys": "ctrl+f"
         },
         {
             "command": "paste",
@@ -27,8 +31,7 @@ alias ls='lsd -a'
             {
                 "action": "copy",
                 "singleLine": false
-            },
-            "keys": "ctrl+c"
+            }
         },
         {
             "command": 
@@ -38,6 +41,62 @@ alias ls='lsd -a'
                 "splitMode": "duplicate"
             },
             "keys": "alt+shift+d"
+        },
+        {
+            "command": "closePane",
+            "keys": "ctrl+w"
+        },
+        {
+            "command": "selectAll",
+            "keys": "ctrl+a"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+a"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+home"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+end"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+numpad0"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+d"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+numpad_minus"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+c"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+numpad_plus"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+w"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "command": "scrollToTop",
+            "keys": "ctrl+home"
+        },
+        {
+            "command": "scrollToBottom",
+            "keys": "ctrl+end"
         }
     ],
     "copyFormatting": "none",
@@ -50,7 +109,7 @@ alias ls='lsd -a'
         [
             {
                 "colorScheme": "DjangoRebornAgain",
-                "elevate": true,
+                "elevate": false,
                 "experimental.retroTerminalEffect": false,
                 "font": 
                 {
@@ -157,97 +216,74 @@ alias ls='lsd -a'
             "yellow": "#FFE862"
         },
         {
-            "name": "duckbones",
-            "black": "#0e101a",
-            "red": "#e03600",
-            "green": "#5dcd97",
-            "yellow": "#e39500",
-            "blue": "#00a3cb",
-            "purple": "#795ccc",
-            "cyan": "#00a3cb",
-            "white": "#ebefc0",
-            "brightBlack": "#2b2f46",
-            "brightRed": "#ff4821",
-            "brightGreen": "#58db9e",
-            "brightYellow": "#f6a100",
-            "brightBlue": "#00b4e0",
-            "brightPurple": "#b3a1e6",
-            "brightCyan": "#00b4e0",
-            "brightWhite": "#b3b692",
-            "background": "#0e101a",
-            "foreground": "#ebefc0",
-            "selectionBackground": "#37382d",
-            "cursorColor": "#edf2c2"
-          },
-          {
-            "name": "ENCOM",
-            "black": "#000000",
-            "red": "#9f0000",
-            "green": "#008b00",
-            "yellow": "#ffd000",
-            "blue": "#0081ff",
-            "purple": "#bc00ca",
-            "cyan": "#008b8b",
-            "white": "#bbbbbb",
-            "brightBlack": "#555555",
-            "brightRed": "#ff0000",
-            "brightGreen": "#00ee00",
-            "brightYellow": "#ffff00",
-            "brightBlue": "#0000ff",
-            "brightPurple": "#ff00ff",
-            "brightCyan": "#00cdcd",
-            "brightWhite": "#ffffff",
-            "background": "#000000",
-            "foreground": "#00a595",
-            "selectionBackground": "#00a48c",
-            "cursorColor": "#bbbbbb"
-          },
-          {
-            "name": "Flatland",
-            "black": "#1d1d19",
-            "red": "#f18339",
-            "green": "#9fd364",
-            "yellow": "#f4ef6d",
-            "blue": "#5096be",
-            "purple": "#695abc",
-            "cyan": "#d63865",
-            "white": "#ffffff",
-            "brightBlack": "#1d1d19",
-            "brightRed": "#d22a24",
-            "brightGreen": "#a7d42c",
-            "brightYellow": "#ff8949",
-            "brightBlue": "#61b9d0",
-            "brightPurple": "#695abc",
-            "brightCyan": "#d63865",
-            "brightWhite": "#ffffff",
-            "background": "#1d1f21",
-            "foreground": "#b8dbef",
-            "selectionBackground": "#2b2a24",
-            "cursorColor": "#708284"
-          },
-          {
-            "name": "Duotone Dark s",
-            "black": "#1f1d27",
-            "red": "#d9393e",
-            "green": "#2dcd73",
-            "yellow": "#d9b76e",
-            "blue": "#ffc284",
-            "purple": "#de8d40",
-            "cyan": "#2488ff",
-            "white": "#b7a1ff",
+            "background": "#1F1D27",
+            "black": "#1F1D27",
+            "blue": "#FFC284",
             "brightBlack": "#353147",
-            "brightRed": "#d9393e",
-            "brightGreen": "#2dcd73",
-            "brightYellow": "#d9b76e",
-            "brightBlue": "#ffc284",
-            "brightPurple": "#de8d40",
-            "brightCyan": "#2488ff",
-            "brightWhite": "#eae5ff",
-            "background": "#1f1d27",
-            "foreground": "#b7a1ff",
+            "brightBlue": "#FFC284",
+            "brightCyan": "#2488FF",
+            "brightGreen": "#2DCD73",
+            "brightPurple": "#DE8D40",
+            "brightRed": "#D9393E",
+            "brightWhite": "#EAE5FF",
+            "brightYellow": "#D9B76E",
+            "cursorColor": "#FF9839",
+            "cyan": "#2488FF",
+            "foreground": "#B7A1FF",
+            "green": "#2DCD73",
+            "name": "Duotone Dark s",
+            "purple": "#DE8D40",
+            "red": "#D9393E",
             "selectionBackground": "#353147",
-            "cursorColor": "#ff9839"
-          },
+            "white": "#B7A1FF",
+            "yellow": "#D9B76E"
+        },
+        {
+            "background": "#000000",
+            "black": "#000000",
+            "blue": "#0081FF",
+            "brightBlack": "#555555",
+            "brightBlue": "#0000FF",
+            "brightCyan": "#00CDCD",
+            "brightGreen": "#00EE00",
+            "brightPurple": "#FF00FF",
+            "brightRed": "#FF0000",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFFF00",
+            "cursorColor": "#BBBBBB",
+            "cyan": "#008B8B",
+            "foreground": "#00A595",
+            "green": "#008B00",
+            "name": "ENCOM",
+            "purple": "#BC00CA",
+            "red": "#9F0000",
+            "selectionBackground": "#00A48C",
+            "white": "#BBBBBB",
+            "yellow": "#FFD000"
+        },
+        {
+            "background": "#1D1F21",
+            "black": "#1D1D19",
+            "blue": "#5096BE",
+            "brightBlack": "#1D1D19",
+            "brightBlue": "#61B9D0",
+            "brightCyan": "#D63865",
+            "brightGreen": "#A7D42C",
+            "brightPurple": "#695ABC",
+            "brightRed": "#D22A24",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FF8949",
+            "cursorColor": "#708284",
+            "cyan": "#D63865",
+            "foreground": "#B8DBEF",
+            "green": "#9FD364",
+            "name": "Flatland",
+            "purple": "#695ABC",
+            "red": "#F18339",
+            "selectionBackground": "#2B2A24",
+            "white": "#FFFFFF",
+            "yellow": "#F4EF6D"
+        },
         {
             "background": "#282C34",
             "black": "#282C34",
@@ -408,9 +444,30 @@ alias ls='lsd -a'
             "selectionBackground": "#FFFFFF",
             "white": "#C0C0C0",
             "yellow": "#808000"
+        },
+        {
+            "background": "#0E101A",
+            "black": "#0E101A",
+            "blue": "#00A3CB",
+            "brightBlack": "#2B2F46",
+            "brightBlue": "#00B4E0",
+            "brightCyan": "#00B4E0",
+            "brightGreen": "#58DB9E",
+            "brightPurple": "#B3A1E6",
+            "brightRed": "#FF4821",
+            "brightWhite": "#B3B692",
+            "brightYellow": "#F6A100",
+            "cursorColor": "#EDF2C2",
+            "cyan": "#00A3CB",
+            "foreground": "#EBEFC0",
+            "green": "#5DCD97",
+            "name": "duckbones",
+            "purple": "#795CCC",
+            "red": "#E03600",
+            "selectionBackground": "#37382D",
+            "white": "#EBEFC0",
+            "yellow": "#E39500"
         }
     ],
     "theme": "dark"
 }
-
-
