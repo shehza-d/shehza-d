@@ -70,30 +70,18 @@ and Hackathons <br>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="center">
 	<a href="#">
-		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
-			style="padding-right:10px;" />
+		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
 	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
-		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
+	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"
+		style="padding-right:5px;">
+		<img alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
 	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
 		<img src="./imgs/svgs/cpp.svg" alt="cplusplus" width="45" height="45" for DSA and Competative Programming />
 	</a>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS for Servers">
-		<img src="./imgs/express-js.png" alt="express" width="40" height="40" />
-	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
 		<img src="./imgs/nextjs.png" alt="nextjs" width="45" height="45" />
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB DataBase"
-		style="text-decoration: none;">
-		<img src="./imgs/svgs/mongodb.svg" alt="mongodb" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
-		title="NodeJS JavaScript Engin used for BackEnd" style="text-decoration: none;">
-		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
-		<!-- https://nodejs.org -->
 	</a>
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
@@ -106,10 +94,10 @@ and Hackathons <br>
 </p>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp,css,js,react" />
-   <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,ts,nextjs,tailwind,vercel"/>
-   <img src="https://skillicons.dev/icons?i=prisma,planetscale,postgres,mysql,postman,aws,graphql,figma
-   "/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp,css" />
+   <img src="https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,ts"/>
+   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,prisma,planetscale,postgres"/>
+   <img src="https://skillicons.dev/icons?i=postman,graphql,figma"/>
 </p>
 
 <hr>
@@ -117,11 +105,12 @@ and Hackathons <br>
 <h3 align="center">🏫 Plans of Learning :</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis,gcp" />
-<img src="https://skillicons.dev/icons?i=wasm,webflow,blender,jest,d3,kubernetes,fastapi"/>
+<img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis" />
+<img src="https://skillicons.dev/icons?i=gcp,wasm,webflow,blender,jest,d3"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,mysql,aws"/>
 </p>
 
-<p align="left">
+<p align="center">
 	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
@@ -195,7 +184,7 @@ and Hackathons <br>
 <details>
 	<summary>
 		<h2> GitHub Statistics :zap: :
-			<h2 />
+		<h2 />
 	</summary>
 	<br>
 	<p align="center">
