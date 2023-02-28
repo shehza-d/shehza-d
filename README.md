@@ -138,15 +138,8 @@ and Hackathons <br>
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
 	</a>
 
-
 </p>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
+
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp,css,js,react" />
    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,ts,nextjs,tailwind,vercel"/>
@@ -156,9 +149,11 @@ and Hackathons <br>
 
 <hr>
 
-<h3 align="left">🏫 Plans of Learning :</h3>
+<h3 align="center">🏫 Plans of Learning :</h3>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis,gcp,wasm,webflow,blender,jest,d3,kubernetes,fastapi,regex," />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis,gcp" />
+<img src="https://skillicons.dev/icons?i=wasm,webflow,blender,jest,d3,kubernetes,fastapi"/>
 </p>
 
 <p align="left">
