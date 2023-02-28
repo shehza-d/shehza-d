@@ -68,11 +68,11 @@ and Hackathons <br>
 </p>
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
-<p align="center">
-	<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<p align="left">
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
 			height="40" />
-	</a> -->
+	</a>
 	<a href="#">
 		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
@@ -80,21 +80,21 @@ and Hackathons <br>
 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
 		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
 	</a>
-	<!-- <a href="https://code.visualstudio.com/">
+	<a href="https://code.visualstudio.com/">
 		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 			style="padding-right:10px;" />
-	</a> -->
-	<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
+	</a>
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
 			width="40" height="40" />
-	</a> -->
+	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
 		<img src="./imgs/svgs/cpp.svg" alt="cplusplus" width="45" height="45" for DSA and Competative Programming />
 	</a>
-	<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
 	</a>
@@ -114,7 +114,7 @@ and Hackathons <br>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
-	</a> -->
+	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS for Servers">
 		<img src="./imgs/express-js.png" alt="express" width="40" height="40" />
 	</a>
@@ -130,6 +130,10 @@ and Hackathons <br>
 		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
+	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+		style="text-decoration: none;">
+		<img src="./imgs/dialogflow.png" width="40px" />
+	</a>
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
 	</a>
@@ -137,35 +141,17 @@ and Hackathons <br>
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
 	</a>
-
-
+	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
+		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
+	</a>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+	</a>
 </p>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align="left"></p><br>
-<p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp,css,js,react" />
-   <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,ts,nextjs,tailwind,vercel"/>
-   <img src="https://skillicons.dev/icons?i=prisma,planetscale,postgres,mysql,postman,aws,graphql,figma
-   "/>
-</p>
-
 <hr>
-
 <h3 align="left">🏫 Plans of Learning :</h3>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis,gcp,wasm,webflow,blender,jest,d3,kubernetes,fastapi,regex," />
-</p>
-
 <p align="left">
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
-		style="text-decoration: none;">
-		<img src="./imgs/dialogflow.png" width="40px" />
-	</a>
 	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
 	</a>
@@ -310,8 +296,8 @@ and Hackathons <br>
 
 <details>
 	<summary>
-		<h2> GitHub Statistics :zap: :
-			<h2 />
+		<h1> GitHub Statistics :zap: :
+			<h1 />
 	</summary>
 	<br>
 	<p align="center">
