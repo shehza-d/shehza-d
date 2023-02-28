@@ -69,10 +69,6 @@ and Hackathons <br>
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="center">
-	<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
-			height="40" />
-	</a> -->
 	<a href="#">
 		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
@@ -80,41 +76,10 @@ and Hackathons <br>
 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
 		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
 	</a>
-	<!-- <a href="https://code.visualstudio.com/">
-		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-			style="padding-right:10px;" />
-	</a> -->
-	<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
-		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-			width="40" height="40" />
-	</a> -->
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
 		<img src="./imgs/svgs/cpp.svg" alt="cplusplus" width="45" height="45" for DSA and Competative Programming />
 	</a>
-	<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-			alt="html5" title="HTML5" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS 3"
-		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-			alt="css3" width="40" height="40" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-		title="Advance JavaScript with ES13" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript" width="45" height="45" />
-	</a>
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react" width="40" height="40" />
-	</a> -->
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS for Servers">
 		<img src="./imgs/express-js.png" alt="express" width="40" height="40" />
 	</a>
@@ -161,43 +126,6 @@ and Hackathons <br>
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
 	</a>
-	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
-		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-	</a>
-	<a href="https://surge.sh/" target="_blank" title="Surge Static Web publishing" style="text-decoration: none;">
-		<img src="./imgs/surge-logo.svg" width="40px" />
-	</a>
-	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="ElectronJS for Desktop Apps">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-			alt="electron" width="40" height="40" />
-	</a>
-	<a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis DataBase">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-			alt="redis" width="40" height="40" />
-	</a>
-	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
-		style="text-decoration: none;">
-		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
-	</a>
-	<a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
-		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-			height="40" />
-	</a>
-	<a href="https://mui.com/" target="_blank" title="Material UI (designing)" style="text-decoration: none;">
-		<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 36 32" fill="none"
-			class="css-1170n61">
-			<path fill-rule="evenodd" clip-rule="evenodd"
-				d="M30.343 21.976a1 1 0 00.502-.864l.018-5.787a1 1 0 01.502-.864l3.137-1.802a1 1 0 011.498.867v10.521a1 1 0 01-.502.867l-11.839 6.8a1 1 0 01-.994.001l-9.291-5.314a1 1 0 01-.504-.868v-5.305c0-.006.007-.01.013-.007.005.003.012 0 .012-.007v-.006c0-.004.002-.008.006-.01l7.652-4.396c.007-.004.004-.015-.004-.015a.008.008 0 01-.008-.008l.015-5.201a1 1 0 00-1.5-.87l-5.687 3.277a1 1 0 01-.998 0L6.666 9.7a1 1 0 00-1.499.866v9.4a1 1 0 01-1.496.869l-3.166-1.81a1 1 0 01-.504-.87l.028-16.43A1 1 0 011.527.86l10.845 6.229a1 1 0 00.996 0L24.21.86a1 1 0 011.498.868v16.434a1 1 0 01-.501.867l-5.678 3.27a1 1 0 00.004 1.735l3.132 1.783a1 1 0 00.993-.002l6.685-3.839zM31 7.234a1 1 0 001.514.857l3-1.8A1 1 0 0036 5.434V1.766A1 1 0 0034.486.91l-3 1.8a1 1 0 00-.486.857v3.668z"
-				fill="#007FFF"></path>
-		</svg>
-	</a>
-	<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-			width="40" height="40" />
-	</a>
 	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
@@ -205,56 +133,21 @@ and Hackathons <br>
 	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
 		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
 	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql" width="40" height="40" />
-	</a>
 	<a href="https://www.salesforce.com/in/saas/" target="_blank" title="Software as a service" title="SaaS"
 		style="text-decoration: none;">
 		<img src="./imgs/saas.png" width="40px" />
-	</a>
-	<a href="https://cloud.google.com" target="_blank" rel="noreferrer" title="Google Cloud">
-		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-			height="40" />
-	</a>
-	<a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?&ef_id=CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE:G:s&OCID=AIDcmm8ge9eggm_SEM_CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE:G:s&gclid=CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE"
-		target="_blank" rel="noreferrer" title="Microsoft Azure">
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
-			height="40" />
-	</a>
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-			alt="aws" width="40" height="40" />
 	</a>
 	<a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987"
 		target="_blank" title="" title="SQL" style="text-decoration: none;">
 		<img src="./imgs/sql-server.png" width="40px" />
 	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash (unix)">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-	</a>
 	<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
 		title="Cockroach DataBase">
 		<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40" />
 	</a>
-	<a href="	https://www.cloudflare.com/learning/cdn/what-is-a-cdn/" target="_blank" title="AWS Cloud Development Kit"
-		title="" style="text-decoration: none;">
-		<img src="./imgs/cloudflare.png" width="40px" />
-	</a>
-	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="ChartJS">
-		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker" width="40" height="40" a />
 		<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img
 				src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"
 				alt="realm" width="40" height="40" /> </a>
-	</a>
-	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="Tensorflow">
-		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-			height="40" />
-	</a>
 	<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
 		style="text-decoration: none;">
 		<img src="./imgs/lambda.png" width="40px" />
@@ -280,10 +173,6 @@ and Hackathons <br>
 				fill="#05C77E"></path>
 		</svg>
 		<!-- https://miragejs.com/ -->
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
 <hr>
