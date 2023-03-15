@@ -27,8 +27,8 @@ and Hackathons <br>
 - A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
 - Learning from Saylani MIT and PIAIC❤️<br>
 - (hope you see me coming😉) <br> -->
-
-<a href="https://shehzad.vercel.app/" target="_blank"><span align="center">MY PERSONAL SITE</span></a>
+<p align="center">
+<a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL SITE</a></p>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
