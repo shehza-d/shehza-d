@@ -28,7 +28,7 @@ and Hackathons <br>
 - Learning from Saylani MIT and PIAIC❤️<br>
 - (hope you see me coming😉) <br> -->
 
-<a href="https://shehzad.vercel.app/" target="_blank"><h6 align="center">MY PERSONAL SITE</h6></a>
+<a href="https://shehzad.vercel.app/" target="_blank"><span align="center">MY PERSONAL SITE</span></a>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
