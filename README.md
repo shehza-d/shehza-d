@@ -188,7 +188,6 @@ and Hackathons <br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
 			alt="shehza-d" />
 		<br>
-		
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
 	<p align="center">
 		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
