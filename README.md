@@ -10,8 +10,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
-<img align="right" alt="Coding" style="border-radius:16px;"
-	src="./codingImgs/background.png">
+<img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
 
 <br/>
 <hr>
@@ -29,7 +28,7 @@ and Hackathons <br>
 - Learning from Saylani MIT and PIAIC❤️<br>
 - (hope you see me coming😉) <br> -->
 
-<a href="https://shehzad.vercel.app/" target="_blank"><h1 align="center">MY PERSONAL SITE</h1></a>
+<a href="https://shehzad.vercel.app/" target="_blank"><h6 align="center">MY PERSONAL SITE</h6></a>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
