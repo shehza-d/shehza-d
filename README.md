@@ -7,12 +7,16 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
 
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
+<img align="right" alt="Coding" style="border-radius:16px;"
+	src="./codingImgs/background.png">
+
+<br/>
 <hr>
-<h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-- 💪🏻 Enthusiastic<br>
+<h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
+<!-- - 💪🏻 Enthusiastic<br>
 - 🌱 I’m currently learning <b>Web 3 Development, REACT JS</b><br>
 - 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), HackerRank, Photo/Video Editing and in
 Bug Bounty
@@ -20,10 +24,12 @@ and Hackathons <br>
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
-<!-- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> -->
+ - 🏆 I am a <b>Certified Full-Stack Developer</b><br> 
 - A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
 - Learning from Saylani MIT and PIAIC❤️<br>
-- (hope you see me coming😉) <br>
+- (hope you see me coming😉) <br> -->
+
+<a href="https://shehzad.vercel.app/" target="_blank"><h1 align="center">MY PERSONAL SITE</h1></a>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
@@ -62,7 +68,6 @@ and Hackathons <br>
 	<a href="https://github.com/shehza-d/shehza-d/discussions" target="_blank">Click here for Discussions and Chit Chat</a>
 </p>
 <hr>
-
 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="center">
@@ -198,8 +203,6 @@ and Hackathons <br>
 		<br> <br>
 		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
-
-
 
 <!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
