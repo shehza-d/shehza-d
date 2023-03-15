@@ -62,11 +62,8 @@ and Hackathons <br>
 	<a href="https://github.com/shehza-d/shehza-d/discussions" target="_blank">Click here for Discussions and Chit Chat</a>
 </p>
 <hr>
-<p align="center">
-	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
-	جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
-</p>
-<hr>
+
+
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="center">
 	<a href="#">
@@ -181,17 +178,13 @@ and Hackathons <br>
 <hr>
 <br>
 
-<details>
-	<summary>
-		<h2> GitHub Statistics :zap: :
-		<h2 />
-	</summary>
+<h2> GitHub Statistics :zap: :<h2 />
 	<br>
 	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
 			alt="shehza-d" />
 		<br>
-		<!-- </p> -->
+		
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
 	<p align="center">
 		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
@@ -206,7 +199,7 @@ and Hackathons <br>
 		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
 
-</details>
+
 
 <!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
