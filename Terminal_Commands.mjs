@@ -9,6 +9,7 @@ git add *
 
 git commit -m "apna comment"
 
+s
 git push origin main 
 
 (
