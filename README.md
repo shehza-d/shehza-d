@@ -199,7 +199,7 @@ and Hackathons <br>
 		<br> <br>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
 		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true" alt="shehza-d" />
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" alt="shehza-d" />
 	</p>
 
 <!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
