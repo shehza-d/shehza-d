@@ -176,7 +176,7 @@ and Hackathons <br>
 <!-- [![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)] -->
 <div align='center'>
 	<h3> ✍️ Random Dev Quote </h3>
-	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' />
+	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
 </div>
 
 <hr>
@@ -185,7 +185,7 @@ and Hackathons <br>
 <h2> GitHub Statistics :zap: :<h2 />
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=shades-of-purple"
 			alt="shehza-d" />
 		<br>
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
