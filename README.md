@@ -194,12 +194,12 @@ and Hackathons <br>
 		<br>
 		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
 		<br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=algolia"
+		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun"
 			alt="shehza-d" />
 		<br> <br>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
 		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=outrun" alt="shehza-d" />
 	</p>
 
 <!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
