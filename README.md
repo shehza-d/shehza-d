@@ -185,7 +185,7 @@ and Hackathons <br>
 <h2> GitHub Statistics :zap: :<h2 />
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=shades-of-purple"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun"
 			alt="shehza-d" />
 		<br>
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
@@ -194,10 +194,10 @@ and Hackathons <br>
 		<br>
 		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
 		<br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=algolia"
 			alt="shehza-d" />
 		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=cobalt" alt="shehza-d" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
 		<br> <br>
 		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=discord" alt="shehza-d" />
 	</p>
