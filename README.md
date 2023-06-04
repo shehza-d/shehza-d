@@ -14,8 +14,8 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <p class="animation_triggering_fade text-justify text-lg font-light text-slate-800 opacity-0  dark:text-slate-200 lg:text-xl">A young and enthusiastic individual<!-- --> <span class="gradient">Making Code Beneficial</span> <!-- -->who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight. Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building. Unlikely others loves BackEnd Technicalities and Competitive Programming(C++) is his Hobby. He also loves meeting new people, exchanging ideas and spreading knowledge and positivity other than that he could be found helping others learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified exposure where he could enhance his experience.</p>
 
-| Currently  Learning | SQL, DBMS |
-| --- | --- |
+| Currently Learning | SQL, DBMS |
+| ------------------ | --------- |
 
 <p align="center">
 <a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL PORTFOLIO WEBSITE</a></p>
@@ -24,15 +24,16 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-<a href="https://twitter.com/shehza_d_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-<a href="https://leetcode.com/shehza_d/" target="blank"><img align="center" src="./icons/leetcode-zoom.png" alt="samadpls" height="50" width="50" /></a>
-<a href="https://instagram.com/shehza.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehza.d" height="40" width="40" /></a>
-	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="40" width="40" /></a>
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="shehza-d" align="right" />
+<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
+</a>
+<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
+</a>
+<a href="https://leetcode.com/shehza_d/" target="blank"><img align="center" src="./icons/leetcode1.png" alt="samadpls" height="50" width="50" />
+</a>
+<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehza.d" height="50" width="50" />
+</a>
+<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="50" /></a>
+<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge" alt="shehza-d" align="right" />
 </p>
 <hr>
 
