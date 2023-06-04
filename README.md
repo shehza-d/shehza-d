@@ -24,14 +24,10 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
-</a>
-<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
-</a>
-<a href="https://leetcode.com/shehza_d/" target="blank"><img align="center" src="./icons/leetcode1.png" alt="samadpls" height="50" width="50" />
-</a>
-<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehza.d" height="50" width="50" />
-</a>
+<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+<a href="https://leetcode.com/shehza_d/" target="blank"><img align="center" src="./icons/leetcode1.png" alt="samadpls" height="50" width="50" /></a>
+<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="50" /></a>
 <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge" alt="shehza-d" align="right" />
 </p>
@@ -72,7 +68,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <hr>
 
-<h3 align="center">🏫 Plans of Learning :</h3>
+<h3 align="left">🏫 Plans of Learning :</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=threejs,solidity,tensorflow,docker,bash,redis" />
@@ -154,18 +150,17 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <br>
 
 <h2> GitHub Statistics :zap: :<h2 />
-	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
-	<p align="center">
-		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
-		<br>
-		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
-		<br>
-		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun"
-			alt="shehza-d" />
-			<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun"
-			alt="shehza-d" />
-		<br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
-		<br>
-		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" alt="shehza-d" /></p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" alt="shehza-d" />
+	<br>
+	<h3 align="center">Time spent on Coding evidence! (WakaTime)</h3>
+	<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
+	<br>
+	<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
+	<br>
+	<img align='center' src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun" alt="shehza-d" />
+	<br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
+	<br>
+	<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" alt="shehza-d" />
+</p>
