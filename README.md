@@ -13,25 +13,29 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
 
 <br/>
-<hr>
+
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-<!-- - 💪🏻 Enthusiastic<br>
-- 🌱 I’m currently learning <b>Web 3 Development, REACT JS</b><br>
-- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), HackerRank, Photo/Video Editing and in
-Bug Bounty
-and Hackathons <br>
+
+<p class="animation_triggering_fade text-justify text-lg font-light text-slate-800 opacity-0  dark:text-slate-200 lg:text-xl">A young and enthusiastic individual<!-- --> <span class="gradient">Making Code Beneficial</span> <!-- -->who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight. Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building. Unlikely others loves BackEnd Technicalities and Competitive Programming(C++) is his Hobby. He also loves meeting new people, exchanging ideas and spreading knowledge and positivity other than that he could be found helping others learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified exposure where he could enhance his experience.</p>
+
+| Command | Description |
+| --- | --- |
+| Currently Learning | SQL, DBMS |
+| git diff | Show file differences that haven't been staged |
+
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
  - 🏆 I am a <b>Certified Full-Stack Developer</b><br> 
 - A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
 - Learning from Saylani MIT and PIAIC❤️<br>
-- (hope you see me coming😉) <br> -->
-<!-- <p align="center">
-<a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL SITE HERE</a></p> -->
+
+<p align="center">
+<a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL SITE HERE</a></p>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
+
 <p align="left">
 	<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -39,9 +43,6 @@ and Hackathons <br>
 	<a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 			alt="shehza_d_" height="40" width="40" /></a>
-	<a href="https://www.hackerrank.com/shehza_d" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-			alt="abdulsamadsid1" height="40" width="40" /></a>
 	<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
 			alt="samadpls" height="40" width="40" /></a>
@@ -54,12 +55,6 @@ and Hackathons <br>
 	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="YouTube" height="40" width="40" /></a>
-	<a href="https://g.dev/shehzadd" target="blank"><img align="center" src="./imgs/google-developer-icon.png"
-			title="Google Developer Profile" alt="YouTube" height="40" width="40" /></a>
-	<a href="https://www.upwork.com/freelancers/~01d9a6c55b707b71aa" target="blank"><img align="center"
-			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
-	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
-			height="41" width="41" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
 </p>
@@ -183,29 +178,18 @@ and Hackathons <br>
 <br>
 
 <h2> GitHub Statistics :zap: :<h2 />
-	<br>
-	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun"
-			alt="shehza-d" />
-		<br>
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
 	<p align="center">
 		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" alt="" width="95%">
 		<br>
 		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
-		<br><br>
+		<br>
 		<img src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun"
 			alt="shehza-d" />
-		<br> <br>
+			<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun"
+			alt="shehza-d" />
+		<br>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" alt="shehza-d" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" alt="shehza-d" />
-	</p>
-
-<!-- shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Enthusiastic 💯
-Dedicated to Work
-Hungry for Experience 😉
-I always like to Enjoy my Work that I'm doing
-Looking forward to be a Computer teacher and run a Software house😊 -->
+		<br>
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" alt="shehza-d" /></p>
