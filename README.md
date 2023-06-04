@@ -5,33 +5,20 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!-- animation end  -->
 
-<!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
-
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 <img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
 
-<br/>
-
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 
 <p class="animation_triggering_fade text-justify text-lg font-light text-slate-800 opacity-0  dark:text-slate-200 lg:text-xl">A young and enthusiastic individual<!-- --> <span class="gradient">Making Code Beneficial</span> <!-- -->who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight. Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building. Unlikely others loves BackEnd Technicalities and Competitive Programming(C++) is his Hobby. He also loves meeting new people, exchanging ideas and spreading knowledge and positivity other than that he could be found helping others learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified exposure where he could enhance his experience.</p>
 
-| Command | Description |
+| Currently  Learning | SQL, DBMS |
 | --- | --- |
-| Currently Learning | SQL, DBMS |
-| git diff | Show file differences that haven't been staged |
-
-- 💞️ Always looking forward to collaborate on projects<br>
-- 💻 Dedicated to Work and seeking Experiences <br>
-- ⛳️ MY 2022 Goal is Mastering JavaScript<br>
- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> 
-- A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
-- Learning from Saylani MIT and PIAIC❤️<br>
 
 <p align="center">
-<a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL SITE HERE</a></p>
+<a href="https://shehzad.vercel.app/" align="center" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL PORTFOLIO WEBSITE</a></p>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
@@ -60,9 +47,6 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 			alt="YouTube" height="40" width="40" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
-</p>
-<p align="center">
-	<a href="https://github.com/shehza-d/shehza-d/discussions" target="_blank">Click here for Discussions and Chit Chat</a>
 </p>
 <hr>
 
