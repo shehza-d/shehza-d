@@ -26,7 +26,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <p align="left">
 <a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
 </a>
-<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
+<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
 </a>
 <a href="https://leetcode.com/shehza_d/" target="blank"><img align="center" src="./icons/leetcode1.png" alt="samadpls" height="50" width="50" />
 </a>
@@ -137,10 +137,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <hr>
 <br>
 
+<p align='center'>
 <img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
 	title="Ranking in Pakistan for Top Github committer" /></div>
 <img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
 	title="My Coding Stats" />
+</p>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)] -->
 <div align='center'>
