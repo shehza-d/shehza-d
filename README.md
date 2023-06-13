@@ -127,7 +127,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 3. 🎉 Merged PR [#120](https://github.com/governor-sindh/website/pull/120) in [governor-sindh/website](https://github.com/governor-sindh/website)
 4. 💪 Opened PR [#120](https://github.com/governor-sindh/website/pull/120) in [governor-sindh/website](https://github.com/governor-sindh/website)
 5. 🎉 Merged PR [#119](https://github.com/governor-sindh/website/pull/119) in [governor-sindh/website](https://github.com/governor-sindh/website)
- 
+6. 💪 Opened PR [#119](https://github.com/governor-sindh/website/pull/119) in [governor-sindh/website](https://github.com/governor-sindh/website)
 <!--END_SECTION:activity-->
 
 <hr>
