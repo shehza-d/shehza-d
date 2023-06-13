@@ -9,10 +9,8 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 
-<p
-	class="animation_triggering_fade text-justify text-lg font-light text-slate-800 opacity-0  dark:text-slate-200 lg:text-xl">
-	A young and enthusiastic individual<!-- --> <span class="gradient">Making Code Beneficial</span> <!-- -->who also
-	likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks
+<p>
+	A young and enthusiastic individual Making Code Beneficial who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks
 	in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight.
 	Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building.
 	Unlikely others loves BackEnd Technicalities and Competitive Programming(C++) is his Hobby. He also loves meeting
@@ -117,6 +115,9 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
 </div>
 
+<hr>
+<br>
+<!--START_SECTION:activity-->
 <hr>
 <br>
 
