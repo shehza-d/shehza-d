@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](https://github.com/shehza-d/portfolio/pull/13) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-2. 🎉 Merged PR [#12](https://github.com/shehza-d/portfolio/pull/12) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-3. 💪 Opened PR [#12](https://github.com/shehza-d/portfolio/pull/12) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 🎉 Merged PR [#11](https://github.com/shehza-d/portfolio/pull/11) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 💪 Opened PR [#11](https://github.com/shehza-d/portfolio/pull/11) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 🎉 Merged PR [#10](https://github.com/shehza-d/portfolio/pull/10) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. 🎉 Merged PR [#13](https://github.com/shehza-d/portfolio/pull/13) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#13](https://github.com/shehza-d/portfolio/pull/13) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#12](https://github.com/shehza-d/portfolio/pull/12) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+4. 💪 Opened PR [#12](https://github.com/shehza-d/portfolio/pull/12) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 🎉 Merged PR [#11](https://github.com/shehza-d/portfolio/pull/11) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 💪 Opened PR [#11](https://github.com/shehza-d/portfolio/pull/11) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
