@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
-2. 💪 Opened PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
-3. 🎉 Merged PR [#2](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/2) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-4. 💪 Opened PR [#2](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/2) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-5. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/1) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-6. 💪 Opened PR [#1](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/1) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
+1. 💪 Opened PR [#1](https://github.com/mInzamamMalik/b9-web-dev-SMIT/pull/1) in [mInzamamMalik/b9-web-dev-SMIT](https://github.com/mInzamamMalik/b9-web-dev-SMIT)
+2. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
+3. 💪 Opened PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
+4. 🎉 Merged PR [#2](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/2) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
+5. 💪 Opened PR [#2](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/2) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
+6. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/1) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
 <!--END_SECTION:activity-->
 
 <hr>
