@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-2. 💪 Opened PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-3. 💪 Opened PR [#1](https://github.com/naruto969/ECOM/pull/1) in [naruto969/ECOM](https://github.com/naruto969/ECOM)
-4. 💪 Opened PR [#1](https://github.com/mInzamamMalik/b9-web-dev-SMIT/pull/1) in [mInzamamMalik/b9-web-dev-SMIT](https://github.com/mInzamamMalik/b9-web-dev-SMIT)
-5. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
-6. 💪 Opened PR [#1](https://github.com/shehza-d/learning-git-branches/pull/1) in [shehza-d/learning-git-branches](https://github.com/shehza-d/learning-git-branches)
+1. 🎉 Merged PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+2. 💪 Opened PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+3. 🎉 Merged PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+4. 💪 Opened PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+5. 💪 Opened PR [#1](https://github.com/naruto969/ECOM/pull/1) in [naruto969/ECOM](https://github.com/naruto969/ECOM)
+6. 💪 Opened PR [#1](https://github.com/mInzamamMalik/b9-web-dev-SMIT/pull/1) in [mInzamamMalik/b9-web-dev-SMIT](https://github.com/mInzamamMalik/b9-web-dev-SMIT)
 <!--END_SECTION:activity-->
 
 <hr>
