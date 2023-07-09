@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-2. 💪 Opened PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-3. 🎉 Merged PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-4. 💪 Opened PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-5. 💪 Opened PR [#1](https://github.com/naruto969/ECOM/pull/1) in [naruto969/ECOM](https://github.com/naruto969/ECOM)
-6. 💪 Opened PR [#1](https://github.com/mInzamamMalik/b9-web-dev-SMIT/pull/1) in [mInzamamMalik/b9-web-dev-SMIT](https://github.com/mInzamamMalik/b9-web-dev-SMIT)
+1. 💪 Opened PR [#1](https://github.com/fizza897/Mern-Chat-App/pull/1) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
+2. 🎉 Merged PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+3. 💪 Opened PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+4. 🎉 Merged PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+5. 💪 Opened PR [#1](https://github.com/shehza-d/polling-app/pull/1) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+6. 💪 Opened PR [#1](https://github.com/naruto969/ECOM/pull/1) in [naruto969/ECOM](https://github.com/naruto969/ECOM)
 <!--END_SECTION:activity-->
 
 <hr>
