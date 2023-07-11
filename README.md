@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-2. 💪 Opened PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-3. 💪 Opened PR [#2](https://github.com/fizza897/Mern-Chat-App/pull/2) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
-4. 💪 Opened PR [#1](https://github.com/fizza897/Mern-Chat-App/pull/1) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
-5. 🎉 Merged PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
-6. 💪 Opened PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
+1. 💪 Opened PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+2. 🎉 Merged PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
+3. 💪 Opened PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
+4. 💪 Opened PR [#2](https://github.com/fizza897/Mern-Chat-App/pull/2) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
+5. 💪 Opened PR [#1](https://github.com/fizza897/Mern-Chat-App/pull/1) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
+6. 🎉 Merged PR [#2](https://github.com/shehza-d/polling-app/pull/2) in [shehza-d/polling-app](https://github.com/shehza-d/polling-app)
 <!--END_SECTION:activity-->
 
 <hr>
