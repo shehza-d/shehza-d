@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
-2. 💪 Opened PR [#30](https://github.com/panaverse/learn-nextjs/pull/30) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
-3. 💪 Opened PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
-4. 🎉 Merged PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-5. 💪 Opened PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
-6. 💪 Opened PR [#2](https://github.com/fizza897/Mern-Chat-App/pull/2) in [fizza897/Mern-Chat-App](https://github.com/fizza897/Mern-Chat-App)
+1. 🎉 Merged PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+4. 💪 Opened PR [#30](https://github.com/panaverse/learn-nextjs/pull/30) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
+5. 💪 Opened PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+6. 🎉 Merged PR [#3](https://github.com/mInzamamMalik/SMIT-chatbot-b3/pull/3) in [mInzamamMalik/SMIT-chatbot-b3](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
 <!--END_SECTION:activity-->
 
 <hr>
