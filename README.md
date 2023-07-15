@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/2) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
-2. 🎉 Merged PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-3. 💪 Opened PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 🎉 Merged PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
-5. 💪 Opened PR [#30](https://github.com/panaverse/learn-nextjs/pull/30) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
-6. 💪 Opened PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+1. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
+2. 💪 Opened PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
+3. 🎉 Merged PR [#2](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/2) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+4. 🎉 Merged PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 💪 Opened PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 🎉 Merged PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
 <!--END_SECTION:activity-->
 
 <hr>
