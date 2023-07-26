@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
-2. 💪 Opened PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
-3. 🎉 Merged PR [#2](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/2) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
-4. 🎉 Merged PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 💪 Opened PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 🎉 Merged PR [#1](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/1) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+1. 🎉 Merged PR [#15](https://github.com/shehza-d/portfolio/pull/15) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#15](https://github.com/shehza-d/portfolio/pull/15) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
+4. 💪 Opened PR [#1](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus/pull/1) in [mInzamamMalik/Chatbot-Development-Syllabus](https://github.com/mInzamamMalik/Chatbot-Development-Syllabus)
+5. 🎉 Merged PR [#2](https://github.com/mabdullahjs/SMIT-BATCH-10/pull/2) in [mabdullahjs/SMIT-BATCH-10](https://github.com/mabdullahjs/SMIT-BATCH-10)
+6. 🎉 Merged PR [#14](https://github.com/shehza-d/portfolio/pull/14) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
