@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-2. 💪 Opened PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-3. 🎉 Merged PR [#1](https://github.com/governor-sindh/website-balochistan/pull/1) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-4. 💪 Opened PR [#1](https://github.com/governor-sindh/website-balochistan/pull/1) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-5. 💪 Opened PR [#1](https://github.com/mInzamamMalik/Bcrypt-inzi/pull/1) in [mInzamamMalik/Bcrypt-inzi](https://github.com/mInzamamMalik/Bcrypt-inzi)
-6. 🎉 Merged PR [#30](https://github.com/panaverse/learn-nextjs/pull/30) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
+1. 🎉 Merged PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+2. 💪 Opened PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+3. 🎉 Merged PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+4. 💪 Opened PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+5. 🎉 Merged PR [#1](https://github.com/governor-sindh/website-balochistan/pull/1) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+6. 💪 Opened PR [#1](https://github.com/governor-sindh/website-balochistan/pull/1) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
 <!--END_SECTION:activity-->
 
 <hr>
