@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/governor-sindh/website-balochistan/pull/4) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-2. 💪 Opened PR [#1](https://github.com/codesnerd/teaching-git/pull/1) in [codesnerd/teaching-git](https://github.com/codesnerd/teaching-git)
-3. 🎉 Merged PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-4. 💪 Opened PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-5. 🎉 Merged PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-6. 💪 Opened PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+1. 💪 Opened PR [#145](https://github.com/governor-sindh/website/pull/145) in [governor-sindh/website](https://github.com/governor-sindh/website)
+2. 🎉 Merged PR [#4](https://github.com/governor-sindh/website-balochistan/pull/4) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+3. 💪 Opened PR [#1](https://github.com/codesnerd/teaching-git/pull/1) in [codesnerd/teaching-git](https://github.com/codesnerd/teaching-git)
+4. 🎉 Merged PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+5. 💪 Opened PR [#2](https://github.com/governor-sindh/website-balochistan/pull/2) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+6. 🎉 Merged PR [#7](https://github.com/shehza-d/chat-app/pull/7) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
 <!--END_SECTION:activity-->
 
 <hr>
