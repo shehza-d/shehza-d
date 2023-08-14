@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#148](https://github.com/governor-sindh/website/pull/148) in [governor-sindh/website](https://github.com/governor-sindh/website)
-2. 💪 Opened PR [#148](https://github.com/governor-sindh/website/pull/148) in [governor-sindh/website](https://github.com/governor-sindh/website)
-3. 🎉 Merged PR [#145](https://github.com/governor-sindh/website/pull/145) in [governor-sindh/website](https://github.com/governor-sindh/website)
-4. 💪 Opened PR [#145](https://github.com/governor-sindh/website/pull/145) in [governor-sindh/website](https://github.com/governor-sindh/website)
-5. 🎉 Merged PR [#4](https://github.com/governor-sindh/website-balochistan/pull/4) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-6. 💪 Opened PR [#1](https://github.com/codesnerd/teaching-git/pull/1) in [codesnerd/teaching-git](https://github.com/codesnerd/teaching-git)
+1. 🎉 Merged PR [#151](https://github.com/governor-sindh/website/pull/151) in [governor-sindh/website](https://github.com/governor-sindh/website)
+2. 💪 Opened PR [#151](https://github.com/governor-sindh/website/pull/151) in [governor-sindh/website](https://github.com/governor-sindh/website)
+3. 🎉 Merged PR [#150](https://github.com/governor-sindh/website/pull/150) in [governor-sindh/website](https://github.com/governor-sindh/website)
+4. 💪 Opened PR [#150](https://github.com/governor-sindh/website/pull/150) in [governor-sindh/website](https://github.com/governor-sindh/website)
+5. 🎉 Merged PR [#148](https://github.com/governor-sindh/website/pull/148) in [governor-sindh/website](https://github.com/governor-sindh/website)
+6. 💪 Opened PR [#148](https://github.com/governor-sindh/website/pull/148) in [governor-sindh/website](https://github.com/governor-sindh/website)
 <!--END_SECTION:activity-->
 
 <hr>
