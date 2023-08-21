@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8](https://github.com/governor-sindh/website-balochistan/pull/8) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-2. 🎉 Merged PR [#7](https://github.com/governor-sindh/website-balochistan/pull/7) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-3. 💪 Opened PR [#7](https://github.com/governor-sindh/website-balochistan/pull/7) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-4. 🎉 Merged PR [#162](https://github.com/governor-sindh/website/pull/162) in [governor-sindh/website](https://github.com/governor-sindh/website)
-5. 💪 Opened PR [#162](https://github.com/governor-sindh/website/pull/162) in [governor-sindh/website](https://github.com/governor-sindh/website)
-6. 🎉 Merged PR [#5](https://github.com/governor-sindh/website-balochistan/pull/5) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+1. 🎉 Merged PR [#8](https://github.com/governor-sindh/website-balochistan/pull/8) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+2. 💪 Opened PR [#8](https://github.com/governor-sindh/website-balochistan/pull/8) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+3. 🎉 Merged PR [#7](https://github.com/governor-sindh/website-balochistan/pull/7) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+4. 💪 Opened PR [#7](https://github.com/governor-sindh/website-balochistan/pull/7) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+5. 🎉 Merged PR [#162](https://github.com/governor-sindh/website/pull/162) in [governor-sindh/website](https://github.com/governor-sindh/website)
+6. 💪 Opened PR [#162](https://github.com/governor-sindh/website/pull/162) in [governor-sindh/website](https://github.com/governor-sindh/website)
 <!--END_SECTION:activity-->
 
 <hr>
