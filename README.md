@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-hackathons/pull/2) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. 🎉 Merged PR [#1](https://github.com/shehza-d/smit-hackathons/pull/1) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-3. 🎉 Merged PR [#34](https://github.com/panaverse/learn-nextjs/pull/34) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
-4. 💪 Opened PR [#34](https://github.com/panaverse/learn-nextjs/pull/34) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
-5. 🎉 Merged PR [#8](https://github.com/governor-sindh/website-balochistan/pull/8) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
-6. 💪 Opened PR [#8](https://github.com/governor-sindh/website-balochistan/pull/8) in [governor-sindh/website-balochistan](https://github.com/governor-sindh/website-balochistan)
+1. 🎉 Merged PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+2. 💪 Opened PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+3. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-hackathons/pull/2) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+4. 🎉 Merged PR [#1](https://github.com/shehza-d/smit-hackathons/pull/1) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+5. 🎉 Merged PR [#34](https://github.com/panaverse/learn-nextjs/pull/34) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
+6. 💪 Opened PR [#34](https://github.com/panaverse/learn-nextjs/pull/34) in [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs)
 <!--END_SECTION:activity-->
 
 <hr>
