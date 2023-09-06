@@ -122,12 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
-2. 💪 Opened PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
-3. 🎉 Merged PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-4. 💪 Opened PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-5. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-hackathons/pull/2) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-6. 🎉 Merged PR [#1](https://github.com/shehza-d/smit-hackathons/pull/1) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+1. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-pinecone-embedding/pull/1) in [shehza-d/learning-pinecone-embedding](https://github.com/shehza-d/learning-pinecone-embedding)
+2. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
+3. 💪 Opened PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
+4. 🎉 Merged PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+5. 💪 Opened PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+6. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-hackathons/pull/2) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 <!--END_SECTION:activity-->
 
 <hr>
