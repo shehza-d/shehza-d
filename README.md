@@ -7,6 +7,9 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
 
+<video src='./myAssets/gh-banner-video.mp4' muted autoplay/>
+
+
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 
 <p>
