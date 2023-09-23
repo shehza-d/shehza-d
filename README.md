@@ -5,7 +5,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
-<img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png">
+<img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
 
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 
