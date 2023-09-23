@@ -6,8 +6,10 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 <img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
+<!-- 
+<video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<video src='./myAssets/gh-banner-video.mp4' muted autoplay/>
+[![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=ONPlUclYGxk)
 
 
 <h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
