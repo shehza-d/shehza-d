@@ -55,8 +55,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 	<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp" />
 	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
-	<img src="https://skillicons.dev/icons?i=supabase,redux,md,materialui,firebase" />
+	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,supabase" />
+	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
+	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+		style="text-decoration: none;">
+		<img src="./imgs/dialogflow.png" width="45px" />
+	</a>
 	<a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
 	</a>
@@ -83,13 +87,9 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <h3 align="left">🏫 Plans of Learning :</h3>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
+	<img src="https://skillicons.dev/icons?i=nestjs,threejs,tensorflow,docker" />
 	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
 	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
-		style="text-decoration: none;">
-		<img src="./imgs/dialogflow.png" width="40px" />
-	</a>
 	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
