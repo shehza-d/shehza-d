@@ -124,8 +124,8 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-pinecone-embedding/pull/1) in [shehza-d/learning-pinecone-embedding](https://github.com/shehza-d/learning-pinecone-embedding)
-2. 🎉 Merged PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
+1. 💪 Opened PR [#1](https://github.com/fizza897/Form-antdesign/pull/1) in [fizza897/Form-antdesign](https://github.com/fizza897/Form-antdesign)
+2. 🎉 Merged PR [#1](https://github.com/shehza-d/learning-pinecone-embedding/pull/1) in [shehza-d/learning-pinecone-embedding](https://github.com/shehza-d/learning-pinecone-embedding)
 3. 💪 Opened PR [#1](https://github.com/mInzamamMalik/chatGPT-demo-chatbots/pull/1) in [mInzamamMalik/chatGPT-demo-chatbots](https://github.com/mInzamamMalik/chatGPT-demo-chatbots)
 4. 🎉 Merged PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
 5. 💪 Opened PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
