@@ -6,12 +6,12 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 <!-- 
-<img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
 <video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<h3 align="center" style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
+<h3 align="center">"In the world of bits and bytes, where art meets science, I find my passion as code is my canvas for crafting masterpieces! "</h3>
+<img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg">
 
-<p>
+<p style="margin-top: 6px;">
 	A young and enthusiastic individual Making Code Beneficial who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks
 	in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight.
 	Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building.
