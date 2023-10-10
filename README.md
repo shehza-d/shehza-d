@@ -8,9 +8,9 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <!-- 
 <video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<h3 align="center">In the world of bits and bytes, where art meets science, I find my passion
-
+<h3 align="center">In the world of bits and bytes, where art meets science, I find my passion<br>
 As code is my canvas for crafting masterpieces!</h3>
+
 <img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg">
 
 <p style="margin-top: 6px;">
