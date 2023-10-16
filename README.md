@@ -126,11 +126,11 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/shehza-d/portfolio/pull/16) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-2. 💪 Opened PR [#16](https://github.com/shehza-d/portfolio/pull/16) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-3. 💪 Opened PR [#1](https://github.com/fizza897/Form-antdesign/pull/1) in [fizza897/Form-antdesign](https://github.com/fizza897/Form-antdesign)
-4. 🎉 Merged PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
-5. 💪 Opened PR [#8](https://github.com/shehza-d/chat-app/pull/8) in [shehza-d/chat-app](https://github.com/shehza-d/chat-app)
+1. 🎉 Merged PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#16](https://github.com/shehza-d/portfolio/pull/16) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+4. 💪 Opened PR [#16](https://github.com/shehza-d/portfolio/pull/16) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 💪 Opened PR [#1](https://github.com/fizza897/Form-antdesign/pull/1) in [fizza897/Form-antdesign](https://github.com/fizza897/Form-antdesign)
 6. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-hackathons/pull/2) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 <!--END_SECTION:activity-->
 
