@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1766951322) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
-2. 💪 Opened PR [#46](https://github.com/samadpls/opensource/pull/46) in [samadpls/opensource](https://github.com/samadpls/opensource)
-3. 💪 Opened PR [#3](https://github.com/Safouene1/support-palestine-banner/pull/3) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
-4. 🎉 Merged PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 💪 Opened PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 🎉 Merged PR [#16](https://github.com/shehza-d/portfolio/pull/16) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. ❗ Opened issue [#1](https://github.com/InnoSufiyan/Memoization-Practice/issues/1) in [InnoSufiyan/Memoization-Practice](https://github.com/InnoSufiyan/Memoization-Practice)
+2. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1766951322) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
+3. 💪 Opened PR [#46](https://github.com/samadpls/opensource/pull/46) in [samadpls/opensource](https://github.com/samadpls/opensource)
+4. 💪 Opened PR [#3](https://github.com/Safouene1/support-palestine-banner/pull/3) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
+5. 🎉 Merged PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 💪 Opened PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
