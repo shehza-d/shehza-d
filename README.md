@@ -22,7 +22,7 @@ As code is my canvas for crafting masterpieces!</h3>
 	learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified
 	exposure where he could enhance his experience.</p>
 
-| Currently Learning | SQL, DBMS |
+| Currently Learning | DSA, DBMS |
 | ------------------ | --------- |
 
 <p align="center">
