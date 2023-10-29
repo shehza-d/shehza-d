@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/shehza-d/smit-hackathons/pull/3) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. ❗ Opened issue [#1](https://github.com/InnoSufiyan/Memoization-Practice/issues/1) in [InnoSufiyan/Memoization-Practice](https://github.com/InnoSufiyan/Memoization-Practice)
-3. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1766951322) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
-4. 💪 Opened PR [#46](https://github.com/samadpls/opensource/pull/46) in [samadpls/opensource](https://github.com/samadpls/opensource)
-5. 💪 Opened PR [#3](https://github.com/Safouene1/support-palestine-banner/pull/3) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
-6. 🎉 Merged PR [#17](https://github.com/shehza-d/portfolio/pull/17) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/shehza-d/smit-hackathons/pull/4) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+2. 🎉 Merged PR [#3](https://github.com/shehza-d/smit-hackathons/pull/3) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+3. ❗ Opened issue [#1](https://github.com/InnoSufiyan/Memoization-Practice/issues/1) in [InnoSufiyan/Memoization-Practice](https://github.com/InnoSufiyan/Memoization-Practice)
+4. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1766951322) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
+5. 💪 Opened PR [#46](https://github.com/samadpls/opensource/pull/46) in [samadpls/opensource](https://github.com/samadpls/opensource)
+6. 💪 Opened PR [#3](https://github.com/Safouene1/support-palestine-banner/pull/3) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
 <!--END_SECTION:activity-->
 
 <hr>
