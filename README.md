@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/shehza-d/airborg/pull/4) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-2. 💪 Opened PR [#4](https://github.com/shehza-d/airborg/pull/4) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-3. ❗ Opened issue [#2](https://github.com/shehza-d/airborg/issues/2) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-4. ❗ Opened issue [#1](https://github.com/shehza-d/airborg/issues/1) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-5. 🎉 Merged PR [#4](https://github.com/shehza-d/smit-hackathons/pull/4) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-6. 🎉 Merged PR [#3](https://github.com/shehza-d/smit-hackathons/pull/3) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+1. ❗ Opened issue [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
+2. 🎉 Merged PR [#4](https://github.com/shehza-d/airborg/pull/4) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+3. 💪 Opened PR [#4](https://github.com/shehza-d/airborg/pull/4) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+4. ❗ Opened issue [#2](https://github.com/shehza-d/airborg/issues/2) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+5. ❗ Opened issue [#1](https://github.com/shehza-d/airborg/issues/1) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+6. 🎉 Merged PR [#4](https://github.com/shehza-d/smit-hackathons/pull/4) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 <!--END_SECTION:activity-->
 
 <hr>
