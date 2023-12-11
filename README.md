@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/ahadsts9901/nodejs-file-upload-firebase/issues/1) in [ahadsts9901/nodejs-file-upload-firebase](https://github.com/ahadsts9901/nodejs-file-upload-firebase)
-2. ❗ Opened issue [#1](https://github.com/ConnectWithNoor/fullstack-lms/issues/1) in [ConnectWithNoor/fullstack-lms](https://github.com/ConnectWithNoor/fullstack-lms)
-3. ❌ Closed PR [#3](https://github.com/shehza-d/airborg/pull/3) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-4. 🗣 Commented on [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1#issuecomment-1825726531) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
-5. ❗ Opened issue [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
-6. 🎉 Merged PR [#4](https://github.com/shehza-d/airborg/pull/4) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+1. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+2. ❗ Opened issue [#1](https://github.com/ahadsts9901/nodejs-file-upload-firebase/issues/1) in [ahadsts9901/nodejs-file-upload-firebase](https://github.com/ahadsts9901/nodejs-file-upload-firebase)
+3. ❗ Opened issue [#1](https://github.com/ConnectWithNoor/fullstack-lms/issues/1) in [ConnectWithNoor/fullstack-lms](https://github.com/ConnectWithNoor/fullstack-lms)
+4. ❌ Closed PR [#3](https://github.com/shehza-d/airborg/pull/3) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
+5. 🗣 Commented on [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1#issuecomment-1825726531) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
+6. ❗ Opened issue [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
 <!--END_SECTION:activity-->
 
 <hr>
