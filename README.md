@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
-2. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-3. ❗ Opened issue [#1](https://github.com/ahadsts9901/nodejs-file-upload-firebase/issues/1) in [ahadsts9901/nodejs-file-upload-firebase](https://github.com/ahadsts9901/nodejs-file-upload-firebase)
-4. ❗ Opened issue [#1](https://github.com/ConnectWithNoor/fullstack-lms/issues/1) in [ConnectWithNoor/fullstack-lms](https://github.com/ConnectWithNoor/fullstack-lms)
-5. ❌ Closed PR [#3](https://github.com/shehza-d/airborg/pull/3) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
-6. 🗣 Commented on [#1](https://github.com/RuhamaMalik/summit_devathon_1/issues/1#issuecomment-1825726531) in [RuhamaMalik/summit_devathon_1](https://github.com/RuhamaMalik/summit_devathon_1)
+1. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
+2. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
+3. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+4. ❗ Opened issue [#1](https://github.com/ahadsts9901/nodejs-file-upload-firebase/issues/1) in [ahadsts9901/nodejs-file-upload-firebase](https://github.com/ahadsts9901/nodejs-file-upload-firebase)
+5. ❗ Opened issue [#1](https://github.com/ConnectWithNoor/fullstack-lms/issues/1) in [ConnectWithNoor/fullstack-lms](https://github.com/ConnectWithNoor/fullstack-lms)
+6. ❌ Closed PR [#3](https://github.com/shehza-d/airborg/pull/3) in [shehza-d/airborg](https://github.com/shehza-d/airborg)
 <!--END_SECTION:activity-->
 
 <hr>
