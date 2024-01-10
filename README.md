@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-2. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-3. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
-4. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
-5. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-6. ❗ Opened issue [#1](https://github.com/ahadsts9901/nodejs-file-upload-firebase/issues/1) in [ahadsts9901/nodejs-file-upload-firebase](https://github.com/ahadsts9901/nodejs-file-upload-firebase)
+1. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+2. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+3. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+4. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
+5. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
+6. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
 <!--END_SECTION:activity-->
 
 <hr>
