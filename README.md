@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/iamtalhaasghar/revivalists/pull/9) in [iamtalhaasghar/revivalists](https://github.com/iamtalhaasghar/revivalists)
-2. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
-3. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-4. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-5. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
-6. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
+1. ❌ Closed PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+2. 💪 Opened PR [#9](https://github.com/iamtalhaasghar/revivalists/pull/9) in [iamtalhaasghar/revivalists](https://github.com/iamtalhaasghar/revivalists)
+3. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+4. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+5. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+6. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
 <!--END_SECTION:activity-->
 
 <hr>
