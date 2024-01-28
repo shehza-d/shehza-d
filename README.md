@@ -126,12 +126,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/shehza-d/smit-hackathons/pull/5) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. ❌ Closed PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
-3. 💪 Opened PR [#9](https://github.com/iamtalhaasghar/revivalists/pull/9) in [iamtalhaasghar/revivalists](https://github.com/iamtalhaasghar/revivalists)
-4. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
-5. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-6. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+1. 🎉 Merged PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#5](https://github.com/shehza-d/smit-hackathons/pull/5) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+4. ❌ Closed PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+5. 💪 Opened PR [#9](https://github.com/iamtalhaasghar/revivalists/pull/9) in [iamtalhaasghar/revivalists](https://github.com/iamtalhaasghar/revivalists)
+6. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
 <!--END_SECTION:activity-->
 
 <hr>
