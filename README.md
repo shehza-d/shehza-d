@@ -48,6 +48,9 @@ As code is my canvas for crafting masterpieces!</h3>
 			alt="YouTube" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
+	<!-- <img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
+	title="Ranking in Pakistan for Top Github committer" /> -->
+	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
 </p>
 <hr>
 
@@ -107,12 +110,12 @@ As code is my canvas for crafting masterpieces!</h3>
 <hr>
 <br>
 
-<p align='center'>
+<!-- <p align='center'>
 	<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
 		title="Ranking in Pakistan for Top Github committer" /></div>
 	<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
 		title="My Coding Stats" />
-</p>
+</p> -->
 
 <div align='center'>
 	<h3> ✍️ Random Dev Quote </h3>
