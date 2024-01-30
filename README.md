@@ -129,12 +129,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-2. 💪 Opened PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-3. 🎉 Merged PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 💪 Opened PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 🎉 Merged PR [#5](https://github.com/shehza-d/smit-hackathons/pull/5) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-6. ❌ Closed PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+1. 🎉 Merged PR [#1](https://github.com/shehza-d/awesome-project-repo/pull/1) in [shehza-d/awesome-project-repo](https://github.com/shehza-d/awesome-project-repo)
+2. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+3. 💪 Opened PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+4. 🎉 Merged PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 💪 Opened PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 🎉 Merged PR [#5](https://github.com/shehza-d/smit-hackathons/pull/5) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 <!--END_SECTION:activity-->
 
 <hr>
