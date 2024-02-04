@@ -5,15 +5,15 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
-<!-- 
+<!--
 <video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<h3 align="center">In the world of bits and bytes, where art meets science, I found my passion<br>
-As code is my canvas for crafting masterpieces!</h3>
+<h2 align="center">In the world of bits and bytes, where art meets science, I found my passion<br>
+As code is my canvas for crafting masterpieces!</h2>
 
-<img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg">
+<!-- <img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg"> -->
 
-<p style="margin-top: 6px;">
+<p style="margin-top: 6px; line-height:26x; font-size:16spx;">
 	A young and enthusiastic individual Making Code Beneficial who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks
 	in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight.
 	Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building.
@@ -22,8 +22,8 @@ As code is my canvas for crafting masterpieces!</h3>
 	learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified
 	exposure where he could enhance his experience.</p>
 
-| Currently Learning | DSA, DBMS |
-| ------------------ | --------- |
+| Currently Learning | DSA, NestJs |
+| ------------------ | ----------- |
 
 <p align="center">
 	<a href="https://shehzad.vercel.app/" align="center" target="_blank"
@@ -39,7 +39,7 @@ As code is my canvas for crafting masterpieces!</h3>
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
 	<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
 			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center" src="./icons/leetcode1.png"
+	<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
 			alt="leetcode" height="50" width="50" /></a>
 	<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
@@ -57,33 +57,20 @@ As code is my canvas for crafting masterpieces!</h3>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp" />
-	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
-	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,supabase" />
-	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
+	<a href="#">
+		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
+	</a>
+	<img src="https://skillicons.dev/icons?i=git,linux,cpp" />
+	<img src="https://skillicons.dev/icons?i=js,css,tailwind,react" />
+	<img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,nodejs" />
+	<img src="https://skillicons.dev/icons?i=ts,postgres,postman,supabase" />
+	<img src="https://skillicons.dev/icons?i=redux" />
 	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="45px" />
 	</a>
-	<a href="#">
-		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
-	</a>
 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" style="padding-right:5px;">
 		<img alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
-	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
-		<img src="./imgs/nextjs.png" alt="nextjs" width="45" height="45" />
-	</a>
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
-	</a>
-	<a href="https://socket.io/" target="_blank" rel="noreferrer"
-		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
-		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
-	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
-		<img src="./imgs/formik.png" width="40px" />
 	</a>
 </p>
 
@@ -92,9 +79,9 @@ As code is my canvas for crafting masterpieces!</h3>
 <h3 align="left">🏫 Plans of Learning :</h3>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=nestjs,threejs,tensorflow,docker" />
-	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
-	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
+	<img src="https://skillicons.dev/icons?i=nestjs,threejs,docker" />
+	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,jest" />
+	<img src="https://skillicons.dev/icons?i=kubernetes,d3,swift,aws" />
 	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
