@@ -69,9 +69,6 @@ As code is my canvas for crafting masterpieces!</h2>
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="45px" />
 	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" style="padding-right:5px;">
-		<img alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
-	</a>
 </p>
 
 <hr>
