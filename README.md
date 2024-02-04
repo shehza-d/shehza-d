@@ -129,12 +129,12 @@ As code is my canvas for crafting masterpieces!</h3>
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-2. 🎉 Merged PR [#1](https://github.com/shehza-d/awesome-project-repo/pull/1) in [shehza-d/awesome-project-repo](https://github.com/shehza-d/awesome-project-repo)
-3. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-4. 💪 Opened PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-5. 🎉 Merged PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 💪 Opened PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. 💪 Opened PR [#4](https://github.com/ghousahmed/web-and-app-development/pull/4) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+2. ❌ Closed PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+3. 🎉 Merged PR [#1](https://github.com/shehza-d/awesome-project-repo/pull/1) in [shehza-d/awesome-project-repo](https://github.com/shehza-d/awesome-project-repo)
+4. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+5. 💪 Opened PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+6. 🎉 Merged PR [#18](https://github.com/shehza-d/portfolio/pull/18) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
