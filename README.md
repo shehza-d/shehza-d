@@ -113,12 +113,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1962422076) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
-2. 💪 Opened PR [#4](https://github.com/ghousahmed/web-and-app-development/pull/4) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-3. ❌ Closed PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-4. 🎉 Merged PR [#1](https://github.com/shehza-d/awesome-project-repo/pull/1) in [shehza-d/awesome-project-repo](https://github.com/shehza-d/awesome-project-repo)
-5. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-6. 💪 Opened PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+1. 💪 Opened PR [#1](https://github.com/ahadsts9901/javascript-oops/pull/1) in [ahadsts9901/javascript-oops](https://github.com/ahadsts9901/javascript-oops)
+2. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1962422076) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
+3. 💪 Opened PR [#4](https://github.com/ghousahmed/web-and-app-development/pull/4) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+4. ❌ Closed PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+5. 🎉 Merged PR [#1](https://github.com/shehza-d/awesome-project-repo/pull/1) in [shehza-d/awesome-project-repo](https://github.com/shehza-d/awesome-project-repo)
+6. 🎉 Merged PR [#1](https://github.com/shehza-d/youtube/pull/1) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
 <!--END_SECTION:activity-->
 
 <hr>
