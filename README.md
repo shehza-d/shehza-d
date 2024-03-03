@@ -48,8 +48,8 @@ As code is my canvas for crafting masterpieces!</h2>
 			alt="YouTube" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
-	<!-- <img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-	title="Ranking in Pakistan for Top Github committer" /> -->
+	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
+	title="Ranking in Pakistan for Top Github committer" />
 	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
 </p>
 <hr>
@@ -57,18 +57,15 @@ As code is my canvas for crafting masterpieces!</h2>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<a href="#">
-		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
-	</a>
-	<img src="https://skillicons.dev/icons?i=git,linux,cpp" />
-	<img src="https://skillicons.dev/icons?i=js,css,tailwind,react" />
-	<img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,nodejs" />
-	<img src="https://skillicons.dev/icons?i=ts,postgres,postman,supabase" />
-	<img src="https://skillicons.dev/icons?i=redux" />
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+<img src="https://skillicons.dev/icons?i=git,linux,c,css" />
+<img src="https://skillicons.dev/icons?i=js,tailwind,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=redux,firebase,materialui,supabase" />
+<img src="https://skillicons.dev/icons?i=ts,express,mongodb,nodejs" />
+<img src="https://skillicons.dev/icons?i=postman,postgres,docker,nestjs" />
+	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="45px" />
-	</a>
+	</a> -->
 </p>
 
 <hr>
@@ -76,20 +73,19 @@ As code is my canvas for crafting masterpieces!</h2>
 <h3 align="left">🏫 Plans of Learning :</h3>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=nestjs,threejs,docker" />
-	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,jest" />
-	<img src="https://skillicons.dev/icons?i=kubernetes,d3,swift,aws" />
-	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
+	<img src="https://skillicons.dev/icons?i=aws,threejs,redis,jest" />
+	<img src="https://skillicons.dev/icons?i=rust,wasm,kubernetes,swift" />
+	<!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
 	</a>
 	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
 		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
-	</a>
-	<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
+	</a> -->
+	<!-- <a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
 		style="text-decoration: none;">
 		<img src="./imgs/lambda.png" width="40px" />
-	</a>
+	</a> -->
 </p>
 <hr>
 <br>
