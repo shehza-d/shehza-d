@@ -59,6 +59,7 @@ As code is my canvas for crafting masterpieces!</h2>
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,linux,c,css,js" />
 <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,redux,supabase" />
+<br>
 <img src="https://skillicons.dev/icons?i=materialui,npm,ts,express,mongodb" />
 <img src="https://skillicons.dev/icons?i=nodejs,postman,postgres,docker,nestjs" />
 	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
