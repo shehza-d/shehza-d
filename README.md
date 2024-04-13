@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
-2. 🎉 Merged PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-3. 💪 Opened PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 🎉 Merged PR [#1](https://github.com/shehza-d/israeli-product-checker/pull/1) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
-5. 🗣 Commented on [#1](https://github.com/shehza-d/israeli-product-checker/pull/1#issuecomment-1999613503) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
-6. 🗣 Commented on [#2](https://github.com/Safouene1/support-palestine-banner/issues/2#issuecomment-1962422076) in [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)
+1. 🔒 Closed issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+2. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
+3. 🎉 Merged PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+4. 💪 Opened PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 🎉 Merged PR [#1](https://github.com/shehza-d/israeli-product-checker/pull/1) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
+6. 🗣 Commented on [#1](https://github.com/shehza-d/israeli-product-checker/pull/1#issuecomment-1999613503) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
 <!--END_SECTION:activity-->
 
 <hr>
