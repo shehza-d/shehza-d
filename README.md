@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-2. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
-3. 🎉 Merged PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 💪 Opened PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 🎉 Merged PR [#1](https://github.com/shehza-d/israeli-product-checker/pull/1) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
-6. 🗣 Commented on [#1](https://github.com/shehza-d/israeli-product-checker/pull/1#issuecomment-1999613503) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
+1. 💪 Opened PR [#1](https://github.com/shehza-d/smit-quiz-app/pull/1) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
+2. 🔒 Closed issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+3. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
+4. 🎉 Merged PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 💪 Opened PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 🎉 Merged PR [#1](https://github.com/shehza-d/israeli-product-checker/pull/1) in [shehza-d/israeli-product-checker](https://github.com/shehza-d/israeli-product-checker)
 <!--END_SECTION:activity-->
 
 <hr>
