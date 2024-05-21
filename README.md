@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/shehza-d/smit-hackathons/pull/6) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. 🗣 Commented on [#6](https://github.com/shehza-d/smit-hackathons/pull/6#issuecomment-2088410965) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-3. 💪 Opened PR [#1](https://github.com/shehza-d/smit-quiz-app/pull/1) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
-4. 🔒 Closed issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
-5. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
-6. 🎉 Merged PR [#19](https://github.com/shehza-d/portfolio/pull/19) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. ❗ Opened issue [#1](https://github.com/ShahwaizQasim/C-Language-Practice-/issues/1) in [ShahwaizQasim/C-Language-Practice-](https://github.com/ShahwaizQasim/C-Language-Practice-)
+2. 🎉 Merged PR [#6](https://github.com/shehza-d/smit-hackathons/pull/6) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+3. 🗣 Commented on [#6](https://github.com/shehza-d/smit-hackathons/pull/6#issuecomment-2088410965) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+4. 💪 Opened PR [#1](https://github.com/shehza-d/smit-quiz-app/pull/1) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
+5. 🔒 Closed issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+6. ❗ Opened issue [#1](https://github.com/HassanAdnan123/nasheed-player/issues/1) in [HassanAdnan123/nasheed-player](https://github.com/HassanAdnan123/nasheed-player)
 <!--END_SECTION:activity-->
 
 <hr>
