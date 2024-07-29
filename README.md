@@ -109,9 +109,9 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-quiz-app/pull/2) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
-2. 💪 Opened PR [#1](https://github.com/inamkhan788/weather-app-inam-khan/pull/1) in [inamkhan788/weather-app-inam-khan](https://github.com/inamkhan788/weather-app-inam-khan)
-3. ❗ Opened issue [#1](https://github.com/ShahwaizQasim/C-Language-Practice-/issues/1) in [ShahwaizQasim/C-Language-Practice-](https://github.com/ShahwaizQasim/C-Language-Practice-)
+1. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
+2. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-quiz-app/pull/2) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
+3. 💪 Opened PR [#1](https://github.com/inamkhan788/weather-app-inam-khan/pull/1) in [inamkhan788/weather-app-inam-khan](https://github.com/inamkhan788/weather-app-inam-khan)
 4. 🎉 Merged PR [#6](https://github.com/shehza-d/smit-hackathons/pull/6) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 5. 🗣 Commented on [#6](https://github.com/shehza-d/smit-hackathons/pull/6#issuecomment-2088410965) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 6. 💪 Opened PR [#1](https://github.com/shehza-d/smit-quiz-app/pull/1) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
