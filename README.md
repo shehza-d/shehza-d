@@ -109,10 +109,10 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
-2. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-quiz-app/pull/2) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
-3. 💪 Opened PR [#1](https://github.com/inamkhan788/weather-app-inam-khan/pull/1) in [inamkhan788/weather-app-inam-khan](https://github.com/inamkhan788/weather-app-inam-khan)
-4. 🎉 Merged PR [#6](https://github.com/shehza-d/smit-hackathons/pull/6) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+1. 🎉 Merged PR [#1](https://github.com/shehza-d/panaverse-site/pull/1) in [shehza-d/panaverse-site](https://github.com/shehza-d/panaverse-site)
+2. 🎉 Merged PR [#20](https://github.com/shehza-d/portfolio/pull/20) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
+4. 🎉 Merged PR [#2](https://github.com/shehza-d/smit-quiz-app/pull/2) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
 5. 🗣 Commented on [#6](https://github.com/shehza-d/smit-hackathons/pull/6#issuecomment-2088410965) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 6. 💪 Opened PR [#1](https://github.com/shehza-d/smit-quiz-app/pull/1) in [shehza-d/smit-quiz-app](https://github.com/shehza-d/smit-quiz-app)
 <!--END_SECTION:activity-->
