@@ -1,8 +1,13 @@
-# My fav Webinars
+# My Favorite Webinars ❤️
 
-1. [Career guidance in SMIT : Dr. Zafar Shahid](https://youtu.be/zxusheTO-co?t=1333)
-2. [Staying Relevant in the Age of Exponential Transformation : Mashhood Alam](https://youtu.be/jNxeweaS5mM?si=m8i9tjVxinhxyero)
-3. [Software Roles in Semi-Conductor Industries : Ghazzali Majeed](https://youtu.be/5k50XILwNTQ?si=wqpVVcVDExhReVf5)
-4. [Understanding Software Security and the Vitality of Security in Modern Computing : Israr Roku](https://youtu.be/Aa4d0yah1Uw?si=aOTqpnvuniy1NvB4)
+| S.No | Speaker                                                | Topic                                                                                                                                |
+| ---- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.   | Dr. Zafar Shahid                                       | [Career guidance in SMIT](https://youtu.be/zxusheTO-co?t=1333)                                                                       |
+| 2.   | Mashhood Alam                                          | [Staying Relevant in the Age of Exponential Transformation](https://youtu.be/jNxeweaS5mM?si=m8i9tjVxinhxyero)                        |
+| 3.   | Ghazzali Majeed                                        | [Software Roles in Semi-Conductor Industries](https://youtu.be/5k50XILwNTQ?si=wqpVVcVDExhReVf5)                                      |
+| 4.   | Israr Roku                                             | [Understanding Software Security and the Vitality of Security in Modern Computing](https://youtu.be/Aa4d0yah1Uw?si=aOTqpnvuniy1NvB4) |
+| 5.   | [Bilal Baqar](https://www.linkedin.com/in/bilalbaqar)  | [Visa Pathways: My USA Journey and Challenges](https://www.facebook.com/share/v/H4kn8ay3bTyjLUsS/)                                   |
+| 6.   | [Hifza Afzal](https://www.linkedin.com/in/hifzaafzal/) | [From Balochistan to the USA](https://www.facebook.com/share/v/Qwpy1P6jixkMUA6T/)                                                    |
+| 7.   |                                                        |                                                                                                                                      |
 
-[other](https://youtube.com/playlist?list=PLe-jr3hh4N_kzYdSBNx_Uj7ADobRMhZeG&si=rJu50uSFq1fPX0o2)
+[others](https://youtube.com/playlist?list=PLe-jr3hh4N_kzYdSBNx_Uj7ADobRMhZeG&si=rJu50uSFq1fPX0o2)
