@@ -109,10 +109,10 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#70](https://github.com/guilhermerodz/input-otp/issues/70) in [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp)
-2. 🎉 Merged PR [#3](https://github.com/shehza-d/youtube/pull/3) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-3. 💪 Opened PR [#3](https://github.com/shehza-d/youtube/pull/3) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
-4. 🎉 Merged PR [#1](https://github.com/shehza-d/panaverse-site/pull/1) in [shehza-d/panaverse-site](https://github.com/shehza-d/panaverse-site)
+1. ❗ Opened issue [#1013](https://github.com/cure53/DOMPurify/issues/1013) in [cure53/DOMPurify](https://github.com/cure53/DOMPurify)
+2. ❗ Opened issue [#70](https://github.com/guilhermerodz/input-otp/issues/70) in [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp)
+3. 🎉 Merged PR [#3](https://github.com/shehza-d/youtube/pull/3) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
+4. 💪 Opened PR [#3](https://github.com/shehza-d/youtube/pull/3) in [shehza-d/youtube](https://github.com/shehza-d/youtube)
 5. 🎉 Merged PR [#20](https://github.com/shehza-d/portfolio/pull/20) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 6. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
 <!--END_SECTION:activity-->
