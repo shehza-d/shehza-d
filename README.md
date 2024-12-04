@@ -113,7 +113,7 @@ As code is my canvas for crafting masterpieces!</h2>
 2. 💪 Opened PR [#1](https://github.com/muhammadsufiyanattari/Ecommerce-Website/pull/1) in [muhammadsufiyanattari/Ecommerce-Website](https://github.com/muhammadsufiyanattari/Ecommerce-Website)
 3. 🗣 Commented on [#14329](https://github.com/desktop/desktop/issues/14329#issuecomment-2511563594) in [desktop/desktop](https://github.com/desktop/desktop)
 4. ❗ Opened issue [#1013](https://github.com/cure53/DOMPurify/issues/1013) in [cure53/DOMPurify](https://github.com/cure53/DOMPurify)
-5. 🎉 Merged PR [#20](https://github.com/shehza-d/portfolio/pull/20) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. ❗ Opened issue [#70](https://github.com/guilhermerodz/input-otp/issues/70) in [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp)
 6. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
 <!--END_SECTION:activity-->
 
