@@ -9,6 +9,6 @@
 | 5.   | [Bilal Baqar](https://www.linkedin.com/in/bilalbaqar)     | [Visa Pathways: My USA Journey and Challenges](https://www.facebook.com/share/v/H4kn8ay3bTyjLUsS/)                                   |
 | 6.   | [Hifza Afzal](https://www.linkedin.com/in/hifzaafzal/)    | [From Balochistan to the USA](https://www.facebook.com/share/v/Qwpy1P6jixkMUA6T/)                                                    |
 | 7.   | ♥️ [Ahmad Jajja](https://www.linkedin.com/in/ahmad-jajja) | [From Faisalabad to the USA: A Journey to a fully funded Scholarship](https://fb.watch/uXGE95g_h-/)                                  |
-|      |
+|   8.    | [Gulrukh](https://www.linkedin.com/in/gulrukh-ahmed-56493b/) | [Job Market Playbook: Essential Skills & Strategies for Career Success](https://www.facebook.com/share/v/15Mfn6eLur)
 
 [others](https://youtube.com/playlist?list=PLe-jr3hh4N_kzYdSBNx_Uj7ADobRMhZeG&si=rJu50uSFq1fPX0o2)
