@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5](https://github.com/ghousahmed/modern-web-application-development/issues/5) in [ghousahmed/modern-web-application-development](https://github.com/ghousahmed/modern-web-application-development)
-2. 💪 Opened PR [#1](https://github.com/muhammadsufiyanattari/Ecommerce-Website/pull/1) in [muhammadsufiyanattari/Ecommerce-Website](https://github.com/muhammadsufiyanattari/Ecommerce-Website)
-3. 🗣 Commented on [#14329](https://github.com/desktop/desktop/issues/14329#issuecomment-2511563594) in [desktop/desktop](https://github.com/desktop/desktop)
-4. ❗ Opened issue [#1013](https://github.com/cure53/DOMPurify/issues/1013) in [cure53/DOMPurify](https://github.com/cure53/DOMPurify)
-5. ❗ Opened issue [#70](https://github.com/guilhermerodz/input-otp/issues/70) in [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp)
-6. ❗ Opened issue [#75](https://github.com/Ovi/DummyJSON/issues/75) in [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON)
+1. 🎉 Merged PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+4. 💪 Opened PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 🎉 Merged PR [#21](https://github.com/shehza-d/portfolio/pull/21) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 💪 Opened PR [#21](https://github.com/shehza-d/portfolio/pull/21) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
