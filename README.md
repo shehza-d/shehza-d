@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-2. 💪 Opened PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-3. 🎉 Merged PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-4. 💪 Opened PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 🎉 Merged PR [#21](https://github.com/shehza-d/portfolio/pull/21) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 💪 Opened PR [#21](https://github.com/shehza-d/portfolio/pull/21) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. 🎉 Merged PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+2. 💪 Opened PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+3. 🎉 Merged PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+4. 💪 Opened PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+5. 🎉 Merged PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+6. 💪 Opened PR [#22](https://github.com/shehza-d/portfolio/pull/22) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
 <!--END_SECTION:activity-->
 
 <hr>
