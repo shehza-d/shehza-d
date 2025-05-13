@@ -109,8 +109,8 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/shehza-d/smit-hackathons/pull/11) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. 🎉 Merged PR [#9](https://github.com/shehza-d/smit-hackathons/pull/9) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
+1. 🎉 Merged PR [#1](https://github.com/shehza-d/vocab-master/pull/1) in [shehza-d/vocab-master](https://github.com/shehza-d/vocab-master)
+2. 💪 Opened PR [#1](https://github.com/shehza-d/vocab-master/pull/1) in [shehza-d/vocab-master](https://github.com/shehza-d/vocab-master)
 3. 🎉 Merged PR [#8](https://github.com/shehza-d/smit-hackathons/pull/8) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 4. 🎉 Merged PR [#7](https://github.com/shehza-d/smit-hackathons/pull/7) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
 5. 🎉 Merged PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
