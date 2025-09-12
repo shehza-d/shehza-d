@@ -11,4 +11,8 @@
 | 7.   | ♥️ [Ahmad Jajja](https://www.linkedin.com/in/ahmad-jajja) | [From Faisalabad to the USA: A Journey to a fully funded Scholarship](https://fb.watch/uXGE95g_h-/)                                  |
 |   8.    | [Gulrukh](https://www.linkedin.com/in/gulrukh-ahmed-56493b/) | [Job Market Playbook: Essential Skills & Strategies for Career Success](https://www.facebook.com/share/v/15Mfn6eLur)|
 |9. | Zahid Iqbal | [Accelerate Innovation: High-Performance GPU & SW Stack for AI](https://www.facebook.com/share/v/1BLZ8MuFCi)|
+| 10. | [M Arham](https://www.linkedin.com/in/muhammad-arham-iba) | [From Karachi to USA](https://youtu.be/L__GaYJ_lJY?si=taa15mZPlXXPlym1)|
 [others](https://youtube.com/playlist?list=PLe-jr3hh4N_kzYdSBNx_Uj7ADobRMhZeG&si=rJu50uSFq1fPX0o2)
+
+
+quaid
