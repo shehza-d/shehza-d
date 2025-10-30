@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Rayyan bin Noman" />
+    <title>Rayyan bin Noman</title>
+    <!-- <link rel="stylesheet" href="style.css" /> -->
+
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>"
+    />
+
+    <!-- Font Awesome CDN ⚙️-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Ubuntu", "Inter", sans-serif;
+      }
+      :root {
+        --theme-color: #7b25eb;
+        --icon-bg: #f5f6f7;
+        --icon-hover-bg: #e5e7eb;
+      }
+
+      ::selection {
+        background: var(--theme-color);
+        color: #fff;
+      }
+
+      body {
+        height: 100vh;
+        height: 100dvh;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        background-color: #f9fafb;
+        color: #111827;
+        overflow: hidden;
+        background-image: linear-gradient(
+            rgba(156, 163, 175, 0.2) 1px,
+            transparent 1px
+          ),
+          linear-gradient(90deg, rgba(156, 163, 175, 0.2) 1px, transparent 1px);
+        background-size: 86px 86px;
+        margin: 0 20px;
+      }
+
+      .container {
+        text-align: center;
+        max-width: 600px;
+        padding: 20px;
+      }
+
+      .socials {
+        display: flex;
+        justify-content: center;
+        gap: 18px;
+      }
+
+      .socials a {
+        position: relative;
+        background: var(--icon-bg);
+        text-decoration: none;
+        width: 42px;
+        height: 42px;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #111;
+        font-size: 1.2rem;
+        transition: all 0.25s ease;
+      }
+
+      .socials a:hover {
+        background: var(--icon-hover-bg);
+        color: var(--theme-color);
+        transform: translateY(-2px);
+      }
+
+      /* Tooltip style */
+      .socials a::after {
+        content: attr(data-tooltip);
+        position: absolute;
+        bottom: -40px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.75);
+        color: #fff;
+        padding: 4px 10px;
+        border-radius: 8px;
+        font-size: 0.75rem;
+        white-space: nowrap;
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.2s ease;
+      }
+
+      .socials a:hover::after {
+        opacity: 1;
+        bottom: -32px;
+      }
+
+      h1 {
+        font-size: 1.8rem;
+        margin-bottom: 10px;
+      }
+
+      .subtitle {
+        font-size: 1.1rem;
+        font-weight: 600;
+        line-height: 1.5;
+        margin-bottom: 16px;
+      }
+
+      .highlight {
+        background-color: #e5e7eb;
+        padding: 3px 8px;
+        border-radius: 6px;
+      }
+
+      .desc {
+        font-size: 0.95rem;
+        color: #4b5563;
+        margin-bottom: 16px;
+      }
+
+      .experience {
+        text-align: left;
+        display: inline-block;
+        margin: 0 auto 24px;
+        color: #374151;
+        font-size: 0.95rem;
+        line-height: 1.6;
+      }
+
+      .experience li {
+        margin-bottom: 5px;
+        /* color: ; */
+      }
+
+      .intro {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .btn {
+        text-decoration: none;
+        background-color: var(--theme-color);
+        color: #fff;
+        padding: 10px 22px;
+        border: none;
+        border-radius: 9999px;
+        font-size: 0.95rem;
+        cursor: pointer;
+        transition: all 0.3s;
+      }
+
+      .btn:hover {
+        /* background-color: #111; */
+        opacity: 90%;
+        transform: scale(1.05);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="socials">
+      <a
+        href="https://wa.me/923054173004?text=salam%20cani"
+        target="_blank"
+        data-tooltip="WhatsApp"
+        ><i class="fa-brands fa-whatsapp"></i
+      ></a>
+      <a href="mailto:rayyanbinoman@gmail.com?subject" target="_blank" data-tooltip="Mail"
+        ><i class="fa-solid fa-envelope"></i
+      ></a>
+      <a href="#" target="_blank" data-tooltip="GitHub"
+        ><i class="fa-brands fa-github"></i
+      ></a>
+      <a href="#" target="_blank" data-tooltip="LinkedIn"
+        ><i class="fa-brands fa-linkedin"></i
+      ></a>
+      <a href="#" target="_blank" data-tooltip="Twitter"
+        ><i class="fa-brands fa-x-twitter"></i
+      ></a>
+    </div>
+    <div class="container">
+      <div class="intro">
+        <p>أهلاً وسهلاً مرحباً</p>
+
+        <h1>Hafiz Rayyan bin Noman</h1>
+        <p class="subtitle">
+			Student of Knowledge. Engineer. Problem-solver.<br />
+			<!-- <br /> -->
+          The <span class="highlight">Quran</span> is my mission, my purpose,
+          and my path.
+        </p>
+
+        <p class="desc">
+          I'm passionate about designing and developing efficient, scalable
+          digital solutions. I turn complex problems into elegant user
+          experiences.
+        </p>
+
+        <ul class="experience">
+          <li>Ruju illah Quran (2 year course)</li>
+          <li>Bachelor in Computer Science (Virtual University)</li>
+          <li>Dar e Nizami 2nd year (Al Huda)</li>
+        </ul>
+
+        <a href="https://wa.me/923054173004" target="_blank" class="btn"
+          >Ask for help <span><i class="fa-solid fa-arrow-right"></i></span
+        ></a>
+      </div>
+    </div>
+    <div></div>
+  </body>
+</html>
