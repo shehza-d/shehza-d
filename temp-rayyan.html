@@ -176,20 +176,51 @@
         opacity: 90%;
         transform: scale(1.05);
       }
+
+      /* Underline animation */
+      .S_Underline {
+        position: relative;
+        display: inline-block; /* so width:100% of text works */
+        cursor: pointer;
+      }
+      .S_Underline::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -3px; /* adjust distance under text */
+        height: 3px; /* same as 0.1875rem */
+        width: 0; /* start collapsed */
+        background: var(--theme-color);
+        transition: width 0.5s ease;
+        border-radius: 2px;
+      }
+
+      /* expand on hover (or focus for accessibility) */
+      .S_Underline:hover::after,
+      .S_Underline:focus::after {
+        width: 100%;
+      }
+      /* Underline animation end */
     </style>
   </head>
   <body>
     <div class="socials">
       <a
-        href="https://wa.me/923054173004?text=salam%20cani"
+        href="https://wa.me/923054173004?text=salam"
         target="_blank"
         data-tooltip="WhatsApp"
         ><i class="fa-brands fa-whatsapp"></i
       ></a>
-      <a href="mailto:rayyanbinoman@gmail.com?subject" target="_blank" data-tooltip="Mail"
+      <a
+        href="mailto:rayyanbinoman@gmail.com"
+        target="_blank"
+        data-tooltip="Mail"
         ><i class="fa-solid fa-envelope"></i
       ></a>
-      <a href="#" target="_blank" data-tooltip="GitHub"
+      <a
+        href="https://github.com/rayyan-bin-noman"
+        target="_blank"
+        data-tooltip="GitHub"
         ><i class="fa-brands fa-github"></i
       ></a>
       <a href="#" target="_blank" data-tooltip="LinkedIn"
@@ -203,10 +234,10 @@
       <div class="intro">
         <p>أهلاً وسهلاً مرحباً</p>
 
-        <h1>Hafiz Rayyan bin Noman</h1>
+        <h1 class="S_Underline">Hafiz Rayyan bin Noman</h1>
         <p class="subtitle">
-			Student of Knowledge. Engineer. Problem-solver.<br />
-			<!-- <br /> -->
+          Student of Knowledge. Engineer. Problem-solver.<br />
+          <!-- <br /> -->
           The <span class="highlight">Quran</span> is my mission, my purpose,
           and my path.
         </p>
