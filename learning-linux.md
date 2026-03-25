@@ -1,11 +1,12 @@
 # Learning Linux
 
-| shortcut | used for       |
-| -------- | -------------- |
-| ctrl + R | search         |
-| ctrl + L | clear          |
-| ctrl + U | cut text       |
-| ctrl + Y | paste cut text |
+| shortcut | used for             |
+| -------- | -------------------- |
+| ctrl + R | search               |
+| ctrl + L | clear                |
+| ctrl + U | cut text (backspace) |
+| ctrl + K | cut text (delete)    |
+| ctrl + Y | paste cut text       |
 
 ---
 
@@ -20,6 +21,18 @@ echo "some more text" >> hello.text
 ```
 
 appends some text
+
+```bash
+df -h
+```
+
+disk usage
+
+```bash
+du -h
+```
+
+folder usage
 
 Search
 
@@ -91,3 +104,17 @@ watch -n 1 'ls -l | wc'
 ```
 
 check for number of files in folder real-time (useful for checking download status )
+
+### Network
+
+```bash
+ifconfig || ipconfig
+```
+
+linux || windows
+
+```bash
+nohup <any command> &
+```
+
+keep any command running in the background even if the ssh connection drops from server
