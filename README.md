@@ -52,9 +52,13 @@ As code is my canvas for crafting masterpieces!</h2>
 	title="Ranking in Pakistan for Top Github committer" />
 	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
 
-<a align="right" href="https://www.codewars.com/users/shehza-d/"><img align="right" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a>
-	
+<br>
+<br>
+<center> <a align="right" href="https://www.codewars.com/users/shehza-d/"><img align="right" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a>
+
 </p>
+<br>
+<br>
 <hr>
 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
