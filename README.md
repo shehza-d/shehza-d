@@ -27,11 +27,15 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <p align="center">
 	<a href="https://shehzad.vercel.app/" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
-		PORTFOLIO WEBSITE</a>
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">Personal Portfolio Website</a>
 </p>
 
 <hr>
+<br>
+<center> <a align="center" href="https://www.codewars.com/users/shehza-d/"><img align="center" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a></center>
+<br>
+
+
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
@@ -48,16 +52,12 @@ As code is my canvas for crafting masterpieces!</h2>
 			alt="YouTube" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="shehza-d" align="right" />
-	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
+<br><br>	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
 	title="Ranking in Pakistan for Top Github committer" />
 	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
 
-<br>
-<br>
-<center> <a align="right" href="https://www.codewars.com/users/shehza-d/"><img align="right" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a>
-
 </p>
-<br>
+
 <br>
 <hr>
 
