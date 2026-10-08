@@ -32,7 +32,9 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <hr>
 <br>
-<center> <a align="center" href="https://www.codewars.com/users/shehza-d/"><img align="center" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a></center>
+<center><a align="center" href="https://www.codewars.com/users/shehza-d/"><img align="center" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a></center>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shehza-d?theme=unicorn&font=Big%21Shoulders%20Inline%20Text&ext=heatmap)
 <br>
 
 
@@ -77,11 +79,11 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <hr>
 
-<h3 align="left">🏫 Plans of Learning :</h3>
+<!--<h3 align="left">🏫 Plans of Learning :</h3>-->
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=aws,threejs,redis,jest" />
-	<img src="https://skillicons.dev/icons?i=rust,wasm,kubernetes,swift" />
+	<!--<img src="https://skillicons.dev/icons?i=aws,threejs,redis,jest" />-->
+	<!--<img src="https://skillicons.dev/icons?i=rust,wasm,kubernetes,swift" />-->
 	<!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
