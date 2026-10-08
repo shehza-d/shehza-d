@@ -34,7 +34,7 @@ As code is my canvas for crafting masterpieces!</h2>
 <br>
 <center><a align="center" href="https://www.codewars.com/users/shehza-d/"><img align="center" src="https://www.codewars.com/users/shehza-d/badges/large" alt="Shehzad codewars profile" /></a></center>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shehza-d?theme=unicorn&font=Big%21Shoulders%20Inline%20Text&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shehza-d?theme=unicorn&font=Big%20Shoulders%20Inline%20Text&ext=heatmap)
 <br>
 
 
