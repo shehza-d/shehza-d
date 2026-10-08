@@ -118,8 +118,8 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/recluze/assembly-lang-course/issues/1#issuecomment-4318628920) in [recluze/assembly-lang-course](https://github.com/recluze/assembly-lang-course)
-2. 🎉 Merged PR [#2](https://github.com/shehza-d/vocab-master/pull/2) in [shehza-d/vocab-master](https://github.com/shehza-d/vocab-master)
+1. ❌ Closed PR [#1](https://github.com/Tahira1234567/E-Commerce-Web-Application/pull/1) in [Tahira1234567/E-Commerce-Web-Application](https://github.com/Tahira1234567/E-Commerce-Web-Application)
+2. 💪 Opened PR [#1](https://github.com/Tahira1234567/E-Commerce-Web-Application/pull/1) in [Tahira1234567/E-Commerce-Web-Application](https://github.com/Tahira1234567/E-Commerce-Web-Application)
 3. 💪 Opened PR [#2](https://github.com/shehza-d/vocab-master/pull/2) in [shehza-d/vocab-master](https://github.com/shehza-d/vocab-master)
 4. 💪 Opened PR [#1](https://github.com/shehza-d/vocab-master/pull/1) in [shehza-d/vocab-master](https://github.com/shehza-d/vocab-master)
 5. 🎉 Merged PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
